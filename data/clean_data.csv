@@ -1,0 +1,991 @@
+price,millage,location,year,make,model,city,state,accidents,owners,use,name
+13130,34770,"Jersey City,  NJ",2019,Hyundai,Elantra,Jersey City, NJ,0,1.0,Personal,Hyundai Elantra
+22990,53762,"New York,  NY",2018,Honda,Accord,New York, NY,0,1.0,Personal,Honda Accord
+15788,24317,"Bronx,  NY",2019,Ford,Fusion,Bronx, NY,0,1.0,Personal,Ford Fusion
+4950,146988,"Brooklyn,  NY",2007,BMW,X3,Brooklyn, NY,2,4.0,Fleet,BMW X3
+4950,92136,"Brooklyn,  NY",2010,Dodge,Journey,Brooklyn, NY,0,3.0,Fleet,Dodge Journey
+22497,25812,"Jersey City,  NJ",2019,Chrysler,300,Jersey City, NJ,0,1.0,Personal,Chrysler 300
+22897,34415,"Jersey City,  NJ",2020,Kia,Sorento,Jersey City, NJ,0,1.0,Personal,Kia Sorento
+25397,34158,"Jersey City,  NJ",2020,GMC,Terrain,Jersey City, NJ,0,1.0,Personal,GMC Terrain
+20297,22218,"Jersey City,  NJ",2019,Dodge,Journey,Jersey City, NJ,0,1.0,Personal,Dodge Journey
+16597,21710,"Jersey City,  NJ",2019,Ford,Fusion,Jersey City, NJ,0,1.0,Personal,Ford Fusion
+22997,21483,"Jersey City,  NJ",2019,Chrysler,300,Jersey City, NJ,0,1.0,Personal,Chrysler 300
+3495,199066,"Jamaica,  NY",2005,Toyota,Prius,Jamaica, NY,2,4.0,Personal,Toyota Prius
+18995,94764,"Brooklyn,  NY",2017,Jeep,Grand Cherokee,Brooklyn, NY,0,1.0,Personal,Jeep Grand Cherokee
+16497,22205,"Jersey City,  NJ",2019,Ford,Fusion,Jersey City, NJ,0,1.0,Personal,Ford Fusion
+3699,140710,"Union City,  NJ",2008,Scion,xD,Union City, NJ,1,4.0,Personal,Scion xD
+20397,21541,"Jersey City,  NJ",2019,Dodge,Journey,Jersey City, NJ,0,1.0,Personal,Dodge Journey
+18297,34279,"Jersey City,  NJ",2019,Nissan,Rogue,Jersey City, NJ,0,1.0,Personal,Nissan Rogue
+17497,34196,"Jersey City,  NJ",2019,Chevrolet,Impala,Jersey City, NJ,0,1.0,Personal,Chevrolet Impala
+17897,31601,"Jersey City,  NJ",2019,Dodge,Grand Caravan,Jersey City, NJ,0,1.0,Personal,Dodge Grand Caravan
+17897,29420,"Jersey City,  NJ",2019,Ford,Escape,Jersey City, NJ,0,1.0,Personal,Ford Escape
+16997,40000,"Jersey City,  NJ",2019,Toyota,Camry,Jersey City, NJ,0,1.0,Personal,Toyota Camry
+16995,98757,"Brooklyn,  NY",2017,Cadillac,XT5,Brooklyn, NY,1,1.0,Personal,Cadillac XT5
+23797,13950,"Jersey City,  NJ",2020,Kia,Sorento,Jersey City, NJ,0,1.0,Personal,Kia Sorento
+16995,38724,"Bergenfield,  NJ",2017,Honda,Civic,Bergenfield, NJ,0,1.0,Personal,Honda Civic
+21697,34971,"Jersey City,  NJ",2019,Chevrolet,Express Passenger,Jersey City, NJ,0,1.0,Personal,Chevrolet Express Passenger
+12995,38899,"Long Island City,  NY",2017,Honda,Accord,Long Island City, NY,5,1.0,Personal,Honda Accord
+14900,108950,"Belford,  NJ",2017,Ford,Explorer,Belford, NJ,0,2.0,Personal,Ford Explorer
+20697,32750,"Jersey City,  NJ",2019,Jeep,Compass,Jersey City, NJ,0,1.0,Personal,Jeep Compass
+11995,58867,"Newark,  NJ",2017,Ford,Escape,Newark, NJ,0,1.0,Fleet,Ford Escape
+7998,50770,"Forest Hills,  NY",2015,Chrysler,200,Forest Hills, NY,0,1.0,Personal,Chrysler 200
+19297,22320,"Jersey City,  NJ",2019,Nissan,Rogue,Jersey City, NJ,0,1.0,Personal,Nissan Rogue
+14388,32508,"Little Falls,  NJ",2017,Toyota,Camry,Little Falls, NJ,0,1.0,Personal,Toyota Camry
+9880,48876,"Bloomfield,  NJ",2011,Mercedes-Benz,C-Class,Bloomfield, NJ,2,3.0,Personal,Mercedes-Benz C-Class
+13130,34770,"Jersey City,  NJ",2019,Hyundai,Elantra,Jersey City, NJ,0,1.0,Personal,Hyundai Elantra
+22990,53762,"New York,  NY",2018,Honda,Accord,New York, NY,0,1.0,Personal,Honda Accord
+15788,24317,"Bronx,  NY",2019,Ford,Fusion,Bronx, NY,0,1.0,Personal,Ford Fusion
+4950,146988,"Brooklyn,  NY",2007,BMW,X3,Brooklyn, NY,2,4.0,Fleet,BMW X3
+4950,92136,"Brooklyn,  NY",2010,Dodge,Journey,Brooklyn, NY,0,3.0,Fleet,Dodge Journey
+22497,25812,"Jersey City,  NJ",2019,Chrysler,300,Jersey City, NJ,0,1.0,Personal,Chrysler 300
+22897,34415,"Jersey City,  NJ",2020,Kia,Sorento,Jersey City, NJ,0,1.0,Personal,Kia Sorento
+25397,34158,"Jersey City,  NJ",2020,GMC,Terrain,Jersey City, NJ,0,1.0,Personal,GMC Terrain
+20297,22218,"Jersey City,  NJ",2019,Dodge,Journey,Jersey City, NJ,0,1.0,Personal,Dodge Journey
+16597,21710,"Jersey City,  NJ",2019,Ford,Fusion,Jersey City, NJ,0,1.0,Personal,Ford Fusion
+22997,21483,"Jersey City,  NJ",2019,Chrysler,300,Jersey City, NJ,0,1.0,Personal,Chrysler 300
+3495,199066,"Jamaica,  NY",2005,Toyota,Prius,Jamaica, NY,2,4.0,Personal,Toyota Prius
+18995,94764,"Brooklyn,  NY",2017,Jeep,Grand Cherokee,Brooklyn, NY,0,1.0,Personal,Jeep Grand Cherokee
+16497,22205,"Jersey City,  NJ",2019,Ford,Fusion,Jersey City, NJ,0,1.0,Personal,Ford Fusion
+3699,140710,"Union City,  NJ",2008,Scion,xD,Union City, NJ,1,4.0,Personal,Scion xD
+20397,21541,"Jersey City,  NJ",2019,Dodge,Journey,Jersey City, NJ,0,1.0,Personal,Dodge Journey
+18297,34279,"Jersey City,  NJ",2019,Nissan,Rogue,Jersey City, NJ,0,1.0,Personal,Nissan Rogue
+17497,34196,"Jersey City,  NJ",2019,Chevrolet,Impala,Jersey City, NJ,0,1.0,Personal,Chevrolet Impala
+17897,31601,"Jersey City,  NJ",2019,Dodge,Grand Caravan,Jersey City, NJ,0,1.0,Personal,Dodge Grand Caravan
+17897,29420,"Jersey City,  NJ",2019,Ford,Escape,Jersey City, NJ,0,1.0,Personal,Ford Escape
+16997,40000,"Jersey City,  NJ",2019,Toyota,Camry,Jersey City, NJ,0,1.0,Personal,Toyota Camry
+16995,98757,"Brooklyn,  NY",2017,Cadillac,XT5,Brooklyn, NY,1,1.0,Personal,Cadillac XT5
+23797,13950,"Jersey City,  NJ",2020,Kia,Sorento,Jersey City, NJ,0,1.0,Personal,Kia Sorento
+16995,38724,"Bergenfield,  NJ",2017,Honda,Civic,Bergenfield, NJ,0,1.0,Personal,Honda Civic
+21697,34971,"Jersey City,  NJ",2019,Chevrolet,Express Passenger,Jersey City, NJ,0,1.0,Personal,Chevrolet Express Passenger
+12995,38899,"Long Island City,  NY",2017,Honda,Accord,Long Island City, NY,5,1.0,Personal,Honda Accord
+14900,108950,"Belford,  NJ",2017,Ford,Explorer,Belford, NJ,0,2.0,Personal,Ford Explorer
+20697,32750,"Jersey City,  NJ",2019,Jeep,Compass,Jersey City, NJ,0,1.0,Personal,Jeep Compass
+11995,58867,"Newark,  NJ",2017,Ford,Escape,Newark, NJ,0,1.0,Fleet,Ford Escape
+7998,50770,"Forest Hills,  NY",2015,Chrysler,200,Forest Hills, NY,0,1.0,Personal,Chrysler 200
+19297,22320,"Jersey City,  NJ",2019,Nissan,Rogue,Jersey City, NJ,0,1.0,Personal,Nissan Rogue
+14388,32508,"Little Falls,  NJ",2017,Toyota,Camry,Little Falls, NJ,0,1.0,Personal,Toyota Camry
+9880,48876,"Bloomfield,  NJ",2011,Mercedes-Benz,C-Class,Bloomfield, NJ,2,3.0,Personal,Mercedes-Benz C-Class
+11972,88340,"Jersey City,  NJ",2010,Mercedes-Benz,CLS,Jersey City, NJ,0,6.0,Fleet,Mercedes-Benz CLS
+8972,117356,"Jersey City,  NJ",2009,Lexus,RX,Jersey City, NJ,0,1.0,Personal,Lexus RX
+15797,27494,"Jersey City,  NJ",2019,Mitsubishi,Eclipse Cross,Jersey City, NJ,0,1.0,Personal,Mitsubishi Eclipse Cross
+19197,20999,"Jersey City,  NJ",2019,Dodge,Journey,Jersey City, NJ,0,1.0,Personal,Dodge Journey
+15492,81321,"Jersey City,  NJ",2016,Ford,Edge,Jersey City, NJ,0,1.0,Personal,Ford Edge
+8499,79032,"Union City,  NJ",2012,Honda,Civic,Union City, NJ,0,2.0,Personal,Honda Civic
+8999,73277,"Union City,  NJ",2013,Chrysler,Town & Country,Union City, NJ,0,1.0,Personal,Chrysler Town & Country
+20995,38944,"Union City,  NJ",2017,Honda,Accord,Union City, NJ,1,1.0,Personal,Honda Accord
+17972,60765,"Jersey City,  NJ",2017,Jeep,Grand Cherokee,Jersey City, NJ,0,2.0,Personal,Jeep Grand Cherokee
+52997,28436,"Jersey City,  NJ",2019,Lincoln,Navigator,Jersey City, NJ,0,1.0,Personal,Lincoln Navigator
+8972,98629,"Jersey City,  NJ",2009,BMW,5 Series,Jersey City, NJ,1,2.0,Fleet,BMW 5 Series
+8973,101516,"Jersey City,  NJ",2011,Volvo,C70,Jersey City, NJ,0,3.0,Personal,Volvo C70
+3972,133186,"Jersey City,  NJ",2010,Kia,Forte,Jersey City, NJ,0,2.0,Personal,Kia Forte
+3699,140710,"Union City,  NJ",2008,Scion,xD,Union City, NJ,1,4.0,Personal,Scion xD
+18597,26800,"Jersey City,  NJ",2020,Chevrolet,Malibu,Jersey City, NJ,0,1.0,Personal,Chevrolet Malibu
+16897,28319,"Jersey City,  NJ",2019,Mitsubishi,Outlander,Jersey City, NJ,0,1.0,Personal,Mitsubishi Outlander
+22597,23878,"Jersey City,  NJ",2019,Chevrolet,Express Passenger,Jersey City, NJ,0,1.0,Personal,Chevrolet Express Passenger
+9495,77770,"Union City,  NJ",2016,Nissan,Altima,Union City, NJ,1,2.0,Fleet,Nissan Altima
+17984,88193,"Jersey City,  NJ",2013,BMW,7 Series,Jersey City, NJ,0,2.0,Personal,BMW 7 Series
+22792,85399,"Jersey City,  NJ",2014,BMW,6 Series,Jersey City, NJ,0,3.0,Fleet,BMW 6 Series
+15297,24433,"Jersey City,  NJ",2019,Kia,Soul,Jersey City, NJ,0,1.0,Personal,Kia Soul
+17495,46675,"Union City,  NJ",2015,Ford,Edge,Union City, NJ,0,1.0,Personal,Ford Edge
+21995,92517,"Union City,  NJ",2015,Mercedes-Benz,GL,Union City, NJ,1,1.0,Personal,Mercedes-Benz GL
+14597,35562,"Jersey City,  NJ",2019,Kia,Soul,Jersey City, NJ,0,1.0,Personal,Kia Soul
+12995,39667,"Union City,  NJ",2015,Chevrolet,Equinox,Union City, NJ,0,1.0,Personal,Chevrolet Equinox
+12777,106105,"Jersey City,  NJ",2006,Lexus,SC,Jersey City, NJ,2,5.0,Personal,Lexus SC
+18897,41882,"Jersey City,  NJ",2019,Jeep,Compass,Jersey City, NJ,0,1.0,Personal,Jeep Compass
+19797,28059,"Jersey City,  NJ",2019,Dodge,Grand Caravan,Jersey City, NJ,0,1.0,Personal,Dodge Grand Caravan
+39792,30035,"Jersey City,  NJ",2008,Bentley,Flying Spur,Jersey City, NJ,1,1.0,Personal,Bentley Flying Spur
+4950,146988,"Brooklyn,  NY",2007,BMW,X3,Brooklyn, NY,2,4.0,Fleet,BMW X3
+24996,13943,"Little Falls,  NJ",2017,Lexus,ES,Little Falls, NJ,0,1.0,Personal,Lexus ES
+20397,20376,"Jersey City,  NJ",2019,Ford,Fusion,Jersey City, NJ,0,1.0,Personal,Ford Fusion
+23697,32399,"Jersey City,  NJ",2019,Jeep,Cherokee,Jersey City, NJ,0,1.0,Personal,Jeep Cherokee
+12472,108898,"Jersey City,  NJ",2007,Mercedes-Benz,SL,Jersey City, NJ,0,7.0,Personal,Mercedes-Benz SL
+10942,47368,"Carlstadt,  NJ",2016,Ford,Fusion,Carlstadt, NJ,0,3.0,Fleet,Ford Fusion
+5999,84011,"Irvington,  NJ",2017,Nissan,Versa,Irvington, NJ,0,2.0,Fleet,Nissan Versa
+19097,36433,"Jersey City,  NJ",2019,Jeep,Compass,Jersey City, NJ,0,1.0,Personal,Jeep Compass
+8900,49131,"Belford,  NJ",2016,Ford,Fusion,Belford, NJ,1,2.0,Fleet,Ford Fusion
+9900,78475,"Belford,  NJ",2017,Chevrolet,Malibu,Belford, NJ,0,1.0,Fleet,Chevrolet Malibu
+2950,190210,"Brooklyn,  NY",2005,Volvo,XC90,Brooklyn, NY,3,3.0,Personal,Volvo XC90
+8499,79032,"Union City,  NJ",2012,Honda,Civic,Union City, NJ,0,2.0,Personal,Honda Civic
+8982,135079,"Hasbrouck Heights,  NJ",2007,Lexus,GX,Hasbrouck Heights, NJ,0,4.0,Personal,Lexus GX
+12900,30006,"Hillside,  NJ",2017,Toyota,Camry,Hillside, NJ,1,2.0,Fleet,Toyota Camry
+19597,36393,"Jersey City,  NJ",2019,Chevrolet,Equinox,Jersey City, NJ,0,1.0,Personal,Chevrolet Equinox
+17397,27934,"Jersey City,  NJ",2019,Ford,EcoSport,Jersey City, NJ,0,1.0,Personal,Ford EcoSport
+4999,123702,"Brooklyn,  NY",2010,Volkswagen,Passat,Brooklyn, NY,0,3.0,Fleet,Volkswagen Passat
+10495,113812,"Newark,  NJ",2013,BMW,X3,Newark, NJ,0,2.0,Personal,BMW X3
+15542,52378,"Carlstadt,  NJ",2017,GMC,Savana Cargo Van,Carlstadt, NJ,0,1.0,Personal,GMC Savana Cargo Van
+8999,73277,"Union City,  NJ",2013,Chrysler,Town & Country,Union City, NJ,0,1.0,Personal,Chrysler Town & Country
+12995,90150,"Jamaica,  NY",2007,Mercedes-Benz,S-Class,Jamaica, NY,0,1.0,Personal,Mercedes-Benz S-Class
+9999,107207,"Brooklyn,  NY",2013,Jeep,Grand Cherokee,Brooklyn, NY,0,3.0,Personal,Jeep Grand Cherokee
+15995,68608,"Emerson,  NJ",2013,Subaru,Tribeca,Emerson, NJ,0,1.0,Personal,Subaru Tribeca
+12795,73405,"Union,  NJ",2017,Honda,Accord,Union, NJ,0,1.0,Personal,Honda Accord
+1995,142600,"Staten Island,  NY",2003,Nissan,Sentra,Staten Island, NY,1,3.0,Personal,Nissan Sentra
+18690,19951,"Elmhurst,  NY",2019,Honda,Accord,Elmhurst, NY,0,1.0,Personal,Honda Accord
+7800,62151,"Bayonne,  NJ",2013,Ford,Escape,Bayonne, NJ,1,4.0,Personal,Ford Escape
+21497,34842,"New York,  NY",2019,Chevrolet,Express Passenger,New York, NY,0,1.0,Personal,Chevrolet Express Passenger
+15542,52796,"Carlstadt,  NJ",2017,GMC,Savana Cargo Van,Carlstadt, NJ,0,1.0,Personal,GMC Savana Cargo Van
+8950,107450,"Brooklyn,  NY",2016,Kia,Sedona,Brooklyn, NY,4,2.0,Fleet,Kia Sedona
+22742,75293,"Carlstadt,  NJ",2018,Ford,F-150,Carlstadt, NJ,1,1.0,Personal,Ford F-150
+10972,120080,"Jersey City,  NJ",2010,BMW,5 Series,Jersey City, NJ,0,2.0,Personal,BMW 5 Series
+16978,101879,"Jersey City,  NJ",2012,Mercedes-Benz,S-Class,Jersey City, NJ,0,3.0,Fleet,Mercedes-Benz S-Class
+12995,75491,"Union City,  NJ",2015,Nissan,Rogue,Union City, NJ,0,1.0,Personal,Nissan Rogue
+10495,113812,"Newark,  NJ",2013,BMW,X3,Newark, NJ,0,2.0,Personal,BMW X3
+11995,58741,"Union City,  NJ",2013,Subaru,Forester,Union City, NJ,0,1.0,Personal,Subaru Forester
+13995,41883,"Union City,  NJ",2016,Hyundai,Sonata,Union City, NJ,0,2.0,Personal,Hyundai Sonata
+188500,1849,"New York,  NY",2018,Porsche,911,New York, NY,0,1.0,Personal,Porsche 911
+9772,57986,"Jersey City,  NJ",2014,Volkswagen,Jetta,Jersey City, NJ,0,2.0,Personal,Volkswagen Jetta
+23297,21291,"Jersey City,  NJ",2019,Nissan,Frontier,Jersey City, NJ,0,1.0,Personal,Nissan Frontier
+24797,17734,"Jersey City,  NJ",2020,Chevrolet,Equinox,Jersey City, NJ,0,1.0,Personal,Chevrolet Equinox
+12995,47442,"Union City,  NJ",2017,Hyundai,Sonata,Union City, NJ,0,1.0,Personal,Hyundai Sonata
+12397,30266,"Jersey City,  NJ",2019,Hyundai,Accent,Jersey City, NJ,0,1.0,Personal,Hyundai Accent
+4995,131980,"Union City,  NJ",2008,Jeep,Liberty,Union City, NJ,0,3.0,Personal,Jeep Liberty
+19488,78644,"Jersey City,  NJ",2016,Land,Rover Discovery Sport,Jersey City, NJ,1,1.0,Fleet,Land Rover Discovery Sport
+10972,70079,"Jersey City,  NJ",2009,BMW,1 Series,Jersey City, NJ,0,2.0,Personal,BMW 1 Series
+32797,31673,"Jersey City,  NJ",2019,Jeep,Wrangler,Jersey City, NJ,0,1.0,Personal,Jeep Wrangler
+20997,37987,"Jersey City,  NJ",2019,GMC,Terrain,Jersey City, NJ,0,1.0,Personal,GMC Terrain
+31497,31198,"Jersey City,  NJ",2019,Toyota,4Runner,Jersey City, NJ,0,1.0,Personal,Toyota 4Runner
+19792,80062,"Jersey City,  NJ",2012,Audi,A7,Jersey City, NJ,0,3.0,Personal,Audi A7
+9999,80548,"Union City,  NJ",2011,Toyota,RAV4,Union City, NJ,0,3.0,Fleet,Toyota RAV4
+43972,107620,"Jersey City,  NJ",2010,Mercedes-Benz,G-Class,Jersey City, NJ,1,3.0,Personal,Mercedes-Benz G-Class
+14897,20886,"Jersey City,  NJ",2019,Volkswagen,Jetta,Jersey City, NJ,0,1.0,Personal,Volkswagen Jetta
+34497,30164,"Jersey City,  NJ",2019,Ford,Explorer,Jersey City, NJ,0,1.0,Personal,Ford Explorer
+32797,20575,"Jersey City,  NJ",2019,Jeep,Grand Cherokee,Jersey City, NJ,0,1.0,Personal,Jeep Grand Cherokee
+30497,31244,"Jersey City,  NJ",2019,Ford,Explorer,Jersey City, NJ,1,1.0,Personal,Ford Explorer
+7800,62151,"Bayonne,  NJ",2013,Ford,Escape,Bayonne, NJ,1,4.0,Personal,Ford Escape
+12999,95113,"Union City,  NJ",2015,Toyota,Sienna,Union City, NJ,0,1.0,Personal,Toyota Sienna
+17497,105804,"Jersey City,  NJ",2012,Mercedes-Benz,CLS,Jersey City, NJ,1,1.0,Personal,Mercedes-Benz CLS
+12999,57743,"Union City,  NJ",2017,Nissan,Altima,Union City, NJ,0,1.0,Personal,Nissan Altima
+9972,87766,"Jersey City,  NJ",2011,Jeep,Liberty,Jersey City, NJ,0,1.0,Personal,Jeep Liberty
+23505,44255,"Elizabeth,  NJ",2014,Toyota,4Runner,Elizabeth, NJ,0,4.0,Personal,Toyota 4Runner
+15908,27635,"Hillside,  NJ",2017,Nissan,Rogue,Hillside, NJ,0,2.0,Fleet,Nissan Rogue
+11972,88340,"Jersey City,  NJ",2010,Mercedes-Benz,CLS,Jersey City, NJ,0,6.0,Fleet,Mercedes-Benz CLS
+14750,37080,"Bronx,  NY",2019,Toyota,Camry,Bronx, NY,0,2.0,Personal,Toyota Camry
+14505,21484,"Elizabeth,  NJ",2017,Honda,Accord,Elizabeth, NJ,0,1.0,Personal,Honda Accord
+6450,119128,"Brooklyn,  NY",2006,Nissan,Armada,Brooklyn, NY,1,3.0,Personal,Nissan Armada
+6995,99841,"Jamaica,  NY",2012,Ford,Transit Connect Van,Jamaica, NY,1,1.0,Personal,Ford Transit Connect Van
+7999,123551,"Irvington,  NJ",2016,Nissan,Altima,Irvington, NJ,0,1.0,Fleet,Nissan Altima
+17495,46675,"Union City,  NJ",2015,Ford,Edge,Union City, NJ,0,1.0,Personal,Ford Edge
+16990,54734,"Elmhurst,  NY",2017,Acura,RDX,Elmhurst, NY,0,1.0,Personal,Acura RDX
+14990,19318,"Elmhurst,  NY",2017,Toyota,RAV4,Elmhurst, NY,0,1.0,Personal,Toyota RAV4
+29000,31591,"Butler,  NJ",2017,Ford,F-150,Butler, NJ,0,1.0,Fleet,Ford F-150
+9500,82350,"Linden,  NJ",2013,Toyota,RAV4,Linden, NJ,1,1.0,Fleet,Toyota RAV4
+37995,7360,"New York,  NY",2019,Lexus,RX,New York, NY,0,1.0,Personal,Lexus RX
+8995,165023,"Newark,  NJ",2010,Mercedes-Benz,E-Class,Newark, NJ,0,1.0,Personal,Mercedes-Benz E-Class
+13881,34631,"New York,  NY",2019,Volkswagen,Jetta,New York, NY,0,1.0,Personal,Volkswagen Jetta
+14777,28902,"Union,  NJ",2017,Honda,Accord,Union, NJ,0,1.0,Personal,Honda Accord
+11995,100704,"Bayonne,  NJ",2012,Volkswagen,Touareg,Bayonne, NJ,1,2.0,Fleet,Volkswagen Touareg
+15797,27494,"Jersey City,  NJ",2019,Mitsubishi,Eclipse Cross,Jersey City, NJ,0,1.0,Personal,Mitsubishi Eclipse Cross
+1995,197486,"Staten Island,  NY",1998,Toyota,Camry,Staten Island, NY,1,3.0,Fleet,Toyota Camry
+21995,92517,"Union City,  NJ",2015,Mercedes-Benz,GL,Union City, NJ,1,1.0,Personal,Mercedes-Benz GL
+6895,100909,"Saddle Brook,  NJ",2011,Toyota,Prius,Saddle Brook, NJ,1,2.0,Personal,Toyota Prius
+18995,76342,"Hasbrouck Heights,  NJ",2008,Ford,Super Duty F-450 Chassis Cab,Hasbrouck Heights, NJ,0,2.0,Personal,Ford Super Duty F-450 Chassis Cab
+14905,29103,"Elizabeth,  NJ",2017,Acura,TLX,Elizabeth, NJ,1,1.0,Personal,Acura TLX
+16995,93783,"Emerson,  NJ",2017,Subaru,Outback,Emerson, NJ,0,1.0,Personal,Subaru Outback
+17995,90750,"Long Island City,  NY",2018,Honda,Accord,Long Island City, NY,0,1.0,Personal,Honda Accord
+19197,20999,"Jersey City,  NJ",2019,Dodge,Journey,Jersey City, NJ,0,1.0,Personal,Dodge Journey
+12995,39667,"Union City,  NJ",2015,Chevrolet,Equinox,Union City, NJ,0,1.0,Personal,Chevrolet Equinox
+16990,51210,"Brooklyn,  NY",2017,Honda,Civic,Brooklyn, NY,0,1.0,Personal,Honda Civic
+10995,39815,"Rahway,  NJ",2019,Nissan,Sentra,Rahway, NJ,1,1.0,Personal,Nissan Sentra
+21597,14166,"Jersey City,  NJ",2019,Toyota,Prius,Jersey City, NJ,0,1.0,Personal,Toyota Prius
+14792,69258,"Jersey City,  NJ",2014,Mercedes-Benz,C-Class,Jersey City, NJ,2,3.0,Personal,Mercedes-Benz C-Class
+7950,152646,"Brooklyn,  NY",2010,Audi,A5,Brooklyn, NY,1,2.0,Personal,Audi A5
+14995,112329,"Newark,  NJ",2015,Ford,Explorer,Newark, NJ,0,1.0,Personal,Ford Explorer
+26995,71255,"Newark,  NJ",2012,BMW,X6 M,Newark, NJ,1,1.0,Personal,BMW X6 M
+19990,87041,"Jersey City,  NJ",2014,Audi,Q7,Jersey City, NJ,0,3.0,Personal,Audi Q7
+18297,22029,"New York,  NY",2019,Chevrolet,Impala,New York, NY,0,1.0,Personal,Chevrolet Impala
+11950,91591,"Brooklyn,  NY",2008,Land,Rover Range Rover,Brooklyn, NY,0,3.0,Personal,Land Rover Range Rover
+22792,64963,"Jersey City,  NJ",2014,BMW,X6,Jersey City, NJ,0,2.0,Fleet,BMW X6
+37990,9522,"New York,  NY",2019,Lexus,RX,New York, NY,0,1.0,Personal,Lexus RX
+25197,23732,"Jersey City,  NJ",2019,Nissan,Frontier,Jersey City, NJ,0,1.0,Personal,Nissan Frontier
+9990,116299,"Jersey City,  NJ",2010,Acura,TL,Jersey City, NJ,0,2.0,Personal,Acura TL
+11995,34009,"Union City,  NJ",2019,Chevrolet,Cruze,Union City, NJ,0,1.0,Fleet,Chevrolet Cruze
+22686,59360,"Secaucus,  NJ",2016,Audi,S3,Secaucus, NJ,1,1.0,Personal,Audi S3
+13500,45031,"Newark,  NJ",2016,Ford,Escape,Newark, NJ,0,1.0,Fleet,Ford Escape
+9950,140649,"Brooklyn,  NY",2010,Audi,S5,Brooklyn, NY,0,1.0,Personal,Audi S5
+39995,6598,"New York,  NY",2019,Lexus,RX,New York, NY,0,1.0,Personal,Lexus RX
+11992,114296,"Jersey City,  NJ",2013,BMW,5 Series,Jersey City, NJ,1,2.0,Fleet,BMW 5 Series
+72995,7403,"New York,  NY",2019,Porsche,Cayenne,New York, NY,0,1.0,Personal,Porsche Cayenne
+17995,98515,"Union City,  NJ",2015,Acura,MDX,Union City, NJ,0,2.0,Fleet,Acura MDX
+169995,27267,"New York,  NY",2009,Rolls-Royce,Phantom,New York, NY,0,2.0,Personal,Rolls-Royce Phantom
+32792,70001,"Jersey City,  NJ",2015,Cadillac,Escalade,Jersey City, NJ,1,3.0,Personal,Cadillac Escalade
+28886,46176,"Secaucus,  NJ",2017,Mercedes-Benz,GLE,Secaucus, NJ,0,1.0,Personal,Mercedes-Benz GLE
+17797,27679,"New York,  NY",2019,Ford,Escape,New York, NY,1,1.0,Personal,Ford Escape
+2950,190210,"Brooklyn,  NY",2005,Volvo,XC90,Brooklyn, NY,3,3.0,Personal,Volvo XC90
+13881,34631,"New York,  NY",2019,Volkswagen,Jetta,New York, NY,0,1.0,Personal,Volkswagen Jetta
+49995,3945,"New York,  NY",2019,Porsche,Macan,New York, NY,0,1.0,Personal,Porsche Macan
+6997,78072,"Jersey City,  NJ",2013,FIAT,500,Jersey City, NJ,0,2.0,Personal,FIAT 500
+11542,64926,"Carlstadt,  NJ",2017,Ford,Escape,Carlstadt, NJ,0,1.0,Fleet,Ford Escape
+38490,9113,"New York,  NY",2019,Lexus,RX,New York, NY,0,1.0,Personal,Lexus RX
+27995,27246,"New York,  NY",2016,Lexus,RX,New York, NY,0,1.0,Personal,Lexus RX
+29197,20689,"Jersey City,  NJ",2019,Ford,Ranger,Jersey City, NJ,0,1.0,Personal,Ford Ranger
+29990,2553,"New York,  NY",2017,Jeep,Grand Cherokee,New York, NY,0,1.0,Personal,Jeep Grand Cherokee
+149997,33454,"Jersey City,  NJ",2013,Ferrari,458 Italia,Jersey City, NJ,0,5.0,Fleet,Ferrari 458 Italia
+3942,114400,"Carlstadt,  NJ",2007,Nissan,Murano,Carlstadt, NJ,3,2.0,Personal,Nissan Murano
+20995,65490,"Union City,  NJ",2017,INFINITI,QX60,Union City, NJ,0,3.0,Personal,INFINITI QX60
+4999,123702,"Brooklyn,  NY",2010,Volkswagen,Passat,Brooklyn, NY,0,3.0,Fleet,Volkswagen Passat
+17497,30532,"Jersey City,  NJ",2020,Kia,Soul,Jersey City, NJ,0,1.0,Personal,Kia Soul
+24386,29659,"Secaucus,  NJ",2017,Audi,A4,Secaucus, NJ,0,1.0,Personal,Audi A4
+30797,11294,"Jersey City,  NJ",2020,Nissan,Pathfinder,Jersey City, NJ,0,1.0,Personal,Nissan Pathfinder
+9999,107207,"Brooklyn,  NY",2013,Jeep,Grand Cherokee,Brooklyn, NY,0,3.0,Personal,Jeep Grand Cherokee
+26537,18110,"New York,  NY",2017,Lexus,NX,New York, NY,0,1.0,Personal,Lexus NX
+38995,7318,"New York,  NY",2019,Lexus,RX,New York, NY,0,1.0,Personal,Lexus RX
+13998,61331,"Jersey City,  NJ",2009,INFINITI,G,Jersey City, NJ,0,2.0,Personal,INFINITI G
+7720,134072,"Newark,  NJ",2010,BMW,5 Series,Newark, NJ,0,4.0,Fleet,BMW 5 Series
+8950,107450,"Brooklyn,  NY",2016,Kia,Sedona,Brooklyn, NY,4,2.0,Fleet,Kia Sedona
+12742,45426,"Carlstadt,  NJ",2018,Nissan,Altima,Carlstadt, NJ,0,1.0,Personal,Nissan Altima
+11995,28547,"Newark,  NJ",2018,Nissan,Altima,Newark, NJ,0,2.0,Personal,Nissan Altima
+38990,6245,"New York,  NY",2019,Lexus,RX,New York, NY,0,1.0,Personal,Lexus RX
+27497,21660,"Jersey City,  NJ",2019,INFINITI,Q50,Jersey City, NJ,0,1.0,Personal,INFINITI Q50
+12497,98795,"Jersey City,  NJ",2012,Audi,A5,Jersey City, NJ,0,2.0,Personal,Audi A5
+39490,6031,"New York,  NY",2019,Lexus,RX,New York, NY,0,1.0,Personal,Lexus RX
+13750,91091,"Brooklyn,  NY",2013,Ford,Econoline Wagon,Brooklyn, NY,1,1.0,Personal,Ford Econoline Wagon
+133995,7312,"New York,  NY",2017,Porsche,911,New York, NY,0,2.0,Personal,Porsche 911
+10995,129982,"Newark,  NJ",2017,Kia,Optima,Newark, NJ,0,1.0,Personal,Kia Optima
+15999,84063,"Union City,  NJ",2016,Nissan,Frontier,Union City, NJ,0,3.0,Fleet,Nissan Frontier
+13495,94224,"Union City,  NJ",2014,Ford,Econoline Cargo Van,Union City, NJ,0,1.0,Personal,Ford Econoline Cargo Van
+10942,47368,"Carlstadt,  NJ",2016,Ford,Fusion,Carlstadt, NJ,0,3.0,Fleet,Ford Fusion
+11995,100704,"Bayonne,  NJ",2012,Volkswagen,Touareg,Bayonne, NJ,1,2.0,Fleet,Volkswagen Touareg
+16599,7558,"Union City,  NJ",2020,Toyota,Corolla,Union City, NJ,0,1.0,Fleet,Toyota Corolla
+14980,86656,"Jersey City,  NJ",2010,INFINITI,G,Jersey City, NJ,0,1.0,Personal,INFINITI G
+23990,13698,"New York,  NY",2019,Jeep,Cherokee,New York, NY,0,1.0,Personal,Jeep Cherokee
+2995,158760,"Union City,  NJ",2004,Toyota,Avalon,Union City, NJ,2,4.0,Personal,Toyota Avalon
+11995,97465,"Newark,  NJ",2012,Jeep,Grand Cherokee,Newark, NJ,0,2.0,Personal,Jeep Grand Cherokee
+18799,116499,"Union City,  NJ",2013,Jeep,Wrangler,Union City, NJ,1,2.0,Personal,Jeep Wrangler
+7995,146304,"Union City,  NJ",2010,Honda,Accord Crosstour,Union City, NJ,0,4.0,Personal,Honda Accord Crosstour
+39990,5743,"New York,  NY",2019,Lexus,RX,New York, NY,0,1.0,Personal,Lexus RX
+17999,34220,"Union City,  NJ",2017,Honda,Accord,Union City, NJ,0,1.0,Personal,Honda Accord
+59901,11157,"New York,  NY",2017,Mercedes-Benz,SL,New York, NY,0,1.0,Personal,Mercedes-Benz SL
+11995,79601,"Union City,  NJ",2010,Mercedes-Benz,E-Class,Union City, NJ,0,1.0,Personal,Mercedes-Benz E-Class
+24997,14240,"Jersey City,  NJ",2020,Hyundai,Santa Fe,Jersey City, NJ,0,1.0,Personal,Hyundai Santa Fe
+159995,5388,"New York,  NY",2018,Porsche,911,New York, NY,0,2.0,Personal,Porsche 911
+30686,15276,"Secaucus,  NJ",2018,Audi,A5,Secaucus, NJ,0,1.0,Personal,Audi A5
+28990,22472,"New York,  NY",2017,Jeep,Wrangler,New York, NY,0,1.0,Personal,Jeep Wrangler
+39490,5635,"New York,  NY",2019,Lexus,RX,New York, NY,0,1.0,Personal,Lexus RX
+18500,20000,"Bayonne,  NJ",2019,Jeep,Compass,Bayonne, NJ,0,2.0,Fleet,Jeep Compass
+32286,41418,"Secaucus,  NJ",2017,Audi,Q7,Secaucus, NJ,0,1.0,Personal,Audi Q7
+6995,86532,"Bayonne,  NJ",2017,Mitsubishi,Lancer,Bayonne, NJ,1,2.0,Fleet,Mitsubishi Lancer
+17995,75514,"Newark,  NJ",2014,Land,Rover Range Rover Evoque,Newark, NJ,0,2.0,Fleet,Land Rover Range Rover Evoque
+6450,119128,"Brooklyn,  NY",2006,Nissan,Armada,Brooklyn, NY,1,3.0,Personal,Nissan Armada
+48904,18737,"New York,  NY",2017,Mercedes-Benz,GLS,New York, NY,0,1.0,Personal,Mercedes-Benz GLS
+15542,52378,"Carlstadt,  NJ",2017,GMC,Savana Cargo Van,Carlstadt, NJ,0,1.0,Personal,GMC Savana Cargo Van
+14790,96467,"Jersey City,  NJ",2011,Audi,S4,Jersey City, NJ,0,2.0,Personal,Audi S4
+25987,36966,"Jersey City,  NJ",2017,Alfa,Romeo Giulia,Jersey City, NJ,0,1.0,Personal,Alfa Romeo Giulia
+27997,44243,"Jersey City,  NJ",2017,Volkswagen,Golf R,Jersey City, NJ,0,1.0,Fleet,Volkswagen Golf R
+3995,111202,"Union City,  NJ",2002,Toyota,Camry,Union City, NJ,1,3.0,Personal,Toyota Camry
+39315,9226,"New York,  NY",2019,Lexus,RX,New York, NY,0,1.0,Personal,Lexus RX
+33792,50367,"Jersey City,  NJ",2017,Jaguar,F-PACE,Jersey City, NJ,0,2.0,Personal,Jaguar F-PACE
+4495,110215,"Lyndhurst,  NJ",2008,Ford,Escape,Lyndhurst, NJ,0,2.0,Personal,Ford Escape
+15542,52796,"Carlstadt,  NJ",2017,GMC,Savana Cargo Van,Carlstadt, NJ,0,1.0,Personal,GMC Savana Cargo Van
+22742,75293,"Carlstadt,  NJ",2018,Ford,F-150,Carlstadt, NJ,1,1.0,Personal,Ford F-150
+14987,120954,"Jersey City,  NJ",2015,Honda,Odyssey,Jersey City, NJ,0,1.0,Personal,Honda Odyssey
+31686,26739,"Secaucus,  NJ",2017,Audi,S3,Secaucus, NJ,0,1.0,Personal,Audi S3
+17492,52037,"Jersey City,  NJ",2013,Mercedes-Benz,GLK,Jersey City, NJ,0,3.0,Personal,Mercedes-Benz GLK
+33286,4361,"Secaucus,  NJ",2019,Audi,A4,Secaucus, NJ,0,1.0,Personal,Audi A4
+39990,7686,"New York,  NY",2019,Lexus,RX,New York, NY,0,1.0,Personal,Lexus RX
+18995,94764,"Brooklyn,  NY",2017,Jeep,Grand Cherokee,Brooklyn, NY,0,1.0,Personal,Jeep Grand Cherokee
+2999,221667,"Brooklyn,  NY",2008,Honda,Odyssey,Brooklyn, NY,0,4.0,Personal,Honda Odyssey
+44995,4460,"New York,  NY",2018,Porsche,Macan,New York, NY,0,1.0,Personal,Porsche Macan
+20942,20276,"Carlstadt,  NJ",2017,Subaru,Outback,Carlstadt, NJ,0,1.0,Personal,Subaru Outback
+40990,9079,"New York,  NY",2019,Lexus,RX,New York, NY,0,1.0,Personal,Lexus RX
+14997,87009,"Jersey City,  NJ",2013,BMW,3 Series,Jersey City, NJ,0,3.0,Personal,BMW 3 Series
+28886,29380,"Secaucus,  NJ",2018,Audi,Q5,Secaucus, NJ,0,2.0,Personal,Audi Q5
+14995,68277,"Union City,  NJ",2015,Toyota,RAV4,Union City, NJ,0,2.0,Personal,Toyota RAV4
+15542,50193,"Carlstadt,  NJ",2017,GMC,Savana Cargo Van,Carlstadt, NJ,0,1.0,Personal,GMC Savana Cargo Van
+39901,30134,"New York,  NY",2017,Mercedes-Benz,GLC,New York, NY,0,1.0,Personal,Mercedes-Benz GLC
+13995,141701,"Newark,  NJ",2011,Ford,Super Duty F-250,Newark, NJ,0,1.0,Personal,Ford Super Duty F-250
+9679,120013,"Jersey City,  NJ",2011,Mercedes-Benz,GLK,Jersey City, NJ,0,1.0,Personal,Mercedes-Benz GLK
+12950,85749,"Brooklyn,  NY",2008,Mercedes-Benz,S-Class,Brooklyn, NY,0,3.0,Personal,Mercedes-Benz S-Class
+17797,30136,"New York,  NY",2019,Dodge,Grand Caravan,New York, NY,0,1.0,Personal,Dodge Grand Caravan
+40495,7012,"New York,  NY",2019,Lexus,RX,New York, NY,0,1.0,Personal,Lexus RX
+13881,39842,"New York,  NY",2019,Volkswagen,Jetta,New York, NY,0,1.0,Personal,Volkswagen Jetta
+21995,78372,"Newark,  NJ",2015,BMW,6 Series,Newark, NJ,0,3.0,Fleet,BMW 6 Series
+9999,116964,"Brooklyn,  NY",2015,Nissan,Pathfinder,Brooklyn, NY,0,4.0,Personal,Nissan Pathfinder
+16995,28211,"Newark,  NJ",2019,Toyota,Camry,Newark, NJ,0,1.0,Personal,Toyota Camry
+23286,13223,"Secaucus,  NJ",2014,Mercedes-Benz,M-Class,Secaucus, NJ,0,1.0,Personal,Mercedes-Benz M-Class
+37995,24993,"New York,  NY",2018,Lexus,GX,New York, NY,0,1.0,Personal,Lexus GX
+13950,66488,"Brooklyn,  NY",2010,Land,Rover Range Rover Sport,Brooklyn, NY,2,5.0,Personal,Land Rover Range Rover Sport
+43686,30679,"Secaucus,  NJ",2017,Maserati,Levante,Secaucus, NJ,0,1.0,Personal,Maserati Levante
+24897,39339,"New York,  NY",2019,Mazda,CX-9,New York, NY,0,1.0,Personal,Mazda CX-9
+13542,82222,"Carlstadt,  NJ",2017,Subaru,Forester,Carlstadt, NJ,0,1.0,Personal,Subaru Forester
+39995,24527,"New York,  NY",2017,Lexus,LS,New York, NY,0,1.0,Personal,Lexus LS
+38686,5649,"Secaucus,  NJ",2019,Audi,A5,Secaucus, NJ,0,1.0,Personal,Audi A5
+34806,16438,"New York,  NY",2017,Mercedes-Benz,GLC,New York, NY,0,1.0,Personal,Mercedes-Benz GLC
+33998,31193,"New York,  NY",2017,Volvo,XC90,New York, NY,0,1.0,Personal,Volvo XC90
+20497,38651,"New York,  NY",2019,Mazda,CX-5,New York, NY,0,1.0,Personal,Mazda CX-5
+10995,75444,"Union City,  NJ",2011,Nissan,Murano,Union City, NJ,0,2.0,Personal,Nissan Murano
+6770,93200,"Newark,  NJ",2012,Hyundai,Veloster,Newark, NJ,0,2.0,Personal,Hyundai Veloster
+22097,29977,"New York,  NY",2019,Nissan,Maxima,New York, NY,0,1.0,Personal,Nissan Maxima
+1995,140252,"Staten Island,  NY",1999,Toyota,Camry,Staten Island, NY,0,4.0,Personal,Toyota Camry
+52900,27038,"Kearny,  NJ",2018,BMW,7 Series,Kearny, NJ,1,1.0,Personal,BMW 7 Series
+12995,16932,"Newark,  NJ",2019,Toyota,Corolla,Newark, NJ,0,2.0,Fleet,Toyota Corolla
+27495,60200,"New York,  NY",2015,Lexus,GX,New York, NY,0,1.0,Personal,Lexus GX
+9880,48876,"Bloomfield,  NJ",2011,Mercedes-Benz,C-Class,Bloomfield, NJ,2,3.0,Personal,Mercedes-Benz C-Class
+14995,47416,"Union City,  NJ",2014,Ford,Escape,Union City, NJ,0,1.0,Personal,Ford Escape
+32986,5210,"Secaucus,  NJ",2019,Audi,A4,Secaucus, NJ,1,1.0,Personal,Audi A4
+13995,107937,"Union City,  NJ",2013,Acura,MDX,Union City, NJ,1,2.0,Personal,Acura MDX
+13995,72195,"Newark,  NJ",2013,Mercedes-Benz,M-Class,Newark, NJ,0,3.0,Personal,Mercedes-Benz M-Class
+11995,69560,"Union City,  NJ",2015,Honda,Civic,Union City, NJ,0,2.0,Fleet,Honda Civic
+10995,35605,"Newark,  NJ",2019,Hyundai,Elantra,Newark, NJ,1,1.0,Fleet,Hyundai Elantra
+38490,9575,"New York,  NY",2018,Lexus,RX,New York, NY,0,1.0,Personal,Lexus RX
+12395,131579,"Union City,  NJ",2011,Toyota,Highlander,Union City, NJ,0,2.0,Personal,Toyota Highlander
+12942,22970,"Carlstadt,  NJ",2017,Nissan,Altima,Carlstadt, NJ,1,2.0,Personal,Nissan Altima
+3581,88288,"New York,  NY",2001,Chevrolet,S-10,New York, NY,0,5.0,Personal,Chevrolet S-10
+12995,38899,"Long Island City,  NY",2017,Honda,Accord,Long Island City, NY,5,1.0,Personal,Honda Accord
+27697,26566,"New York,  NY",2019,Mazda,CX-9,New York, NY,0,1.0,Personal,Mazda CX-9
+13995,63509,"Union City,  NJ",2013,Toyota,RAV4,Union City, NJ,0,1.0,Personal,Toyota RAV4
+34990,20084,"New York,  NY",2017,Jeep,Grand Cherokee,New York, NY,0,1.0,Personal,Jeep Grand Cherokee
+12742,38968,"Carlstadt,  NJ",2015,Ford,Escape,Carlstadt, NJ,0,2.0,Personal,Ford Escape
+20499,31532,"Brooklyn,  NY",2019,Toyota,Camry,Brooklyn, NY,0,1.0,Personal,Toyota Camry
+17900,40550,"Rahway,  NJ",2017,BMW,3 Series,Rahway, NJ,3,1.0,Fleet,BMW 3 Series
+16694,39688,"Union,  NJ",2017,Honda,Accord,Union, NJ,0,1.0,Personal,Honda Accord
+1995,232753,"Hasbrouck Heights,  NJ",2000,Nissan,Xterra,Hasbrouck Heights, NJ,1,5.0,Personal,Nissan Xterra
+16656,80248,"Bloomfield,  NJ",2010,Mercedes-Benz,S-Class,Bloomfield, NJ,1,3.0,Fleet,Mercedes-Benz S-Class
+25335,26485,"Larchmont,  NY",2017,Lexus,ES,Larchmont, NY,0,1.0,Personal,Lexus ES
+15016,36048,"Forest Hills,  NY",2017,Honda,Accord,Forest Hills, NY,0,1.0,Personal,Honda Accord
+41884,4438,"Paramus,  NJ",2020,Mercedes-Benz,GLC,Paramus, NJ,0,1.0,Personal,Mercedes-Benz GLC
+9841,42143,"Yonkers,  NY",2017,Chevrolet,Cruze,Yonkers, NY,1,2.0,Personal,Chevrolet Cruze
+11799,91582,"Union City,  NJ",2012,Honda,Odyssey,Union City, NJ,0,2.0,Personal,Honda Odyssey
+40035,4678,"Paramus,  NJ",2020,Mercedes-Benz,GLC,Paramus, NJ,0,1.0,Personal,Mercedes-Benz GLC
+7900,74466,"Bronx,  NY",2016,Volkswagen,Jetta,Bronx, NY,0,1.0,Personal,Volkswagen Jetta
+12594,15869,"Bloomfield,  NJ",2017,Hyundai,Elantra,Bloomfield, NJ,0,1.0,Personal,Hyundai Elantra
+7900,160623,"Belford,  NJ",2015,Toyota,Sienna,Belford, NJ,1,2.0,Fleet,Toyota Sienna
+8800,44645,"Hazlet,  NJ",2004,Nissan,Titan,Hazlet, NJ,0,1.0,Personal,Nissan Titan
+14990,45688,"New York,  NY",2018,Chevrolet,Malibu,New York, NY,0,1.0,Personal,Chevrolet Malibu
+9995,44000,"Scarsdale,  NY",2014,Chevrolet,Equinox,Scarsdale, NY,0,2.0,Personal,Chevrolet Equinox
+2995,128827,"Garfield,  NJ",2004,Jeep,Liberty,Garfield, NJ,3,6.0,Fleet,Jeep Liberty
+48904,18737,"New York,  NY",2017,Mercedes-Benz,GLS,New York, NY,0,1.0,Personal,Mercedes-Benz GLS
+38990,6245,"New York,  NY",2019,Lexus,RX,New York, NY,0,1.0,Personal,Lexus RX
+5895,90946,"Lodi,  NJ",2014,Volkswagen,Jetta,Lodi, NJ,1,2.0,Personal,Volkswagen Jetta
+10800,64243,"Hazlet,  NJ",2013,Jeep,Grand Cherokee,Hazlet, NJ,0,2.0,Personal,Jeep Grand Cherokee
+12900,88181,"Belford,  NJ",2017,Chevrolet,Traverse,Belford, NJ,2,1.0,Fleet,Chevrolet Traverse
+19999,43863,"Englewood,  NJ",2017,Lincoln,MKC,Englewood, NJ,0,1.0,Personal,Lincoln MKC
+11900,103227,"Belford,  NJ",2013,Lexus,ES,Belford, NJ,1,2.0,Personal,Lexus ES
+17995,108375,"Brooklyn,  NY",2017,Ford,Explorer,Brooklyn, NY,0,1.0,Personal,Ford Explorer
+3399,101423,"Garfield,  NJ",2010,Pontiac,G6,Garfield, NJ,0,6.0,Personal,Pontiac G6
+13850,36377,"Greatneck,  NY",2017,Honda,HR-V,Greatneck, NY,0,1.0,Personal,Honda HR-V
+13390,45691,"Bronx,  NY",2018,Chevrolet,Equinox,Bronx, NY,0,1.0,Personal,Chevrolet Equinox
+16888,30585,"Jamaica,  NY",2017,Toyota,RAV4,Jamaica, NY,0,1.0,Personal,Toyota RAV4
+33901,8510,"New York,  NY",2017,Mercedes-Benz,C-Class,New York, NY,0,1.0,Personal,Mercedes-Benz C-Class
+37992,56544,"Jersey City,  NJ",2015,Mercedes-Benz,M-Class,Jersey City, NJ,0,2.0,Personal,Mercedes-Benz M-Class
+38286,6108,"Secaucus,  NJ",2019,Audi,A5,Secaucus, NJ,1,1.0,Personal,Audi A5
+5500,104117,"Kearny,  NJ",2011,Volkswagen,Jetta,Kearny, NJ,1,2.0,Personal,Volkswagen Jetta
+3795,141843,"Newark,  NJ",2005,Honda,Accord,Newark, NJ,2,6.0,Personal,Honda Accord
+8995,83058,"Newark,  NJ",2009,Ford,Econoline Cargo Van,Newark, NJ,1,1.0,Personal,Ford Econoline Cargo Van
+11495,42308,"Bayonne,  NJ",2018,Nissan,Altima,Bayonne, NJ,0,1.0,Personal,Nissan Altima
+4995,82424,"Newark,  NJ",2012,FIAT,500,Newark, NJ,1,1.0,Personal,FIAT 500
+15542,92305,"Carlstadt,  NJ",2014,Ford,F-150,Carlstadt, NJ,0,3.0,Personal,Ford F-150
+34995,31172,"New York,  NY",2017,Lexus,GS,New York, NY,0,1.0,Personal,Lexus GS
+17542,60023,"Carlstadt,  NJ",2016,Ford,Explorer,Carlstadt, NJ,1,1.0,Fleet,Ford Explorer
+44995,16502,"New York,  NY",2018,Lexus,GX,New York, NY,0,1.0,Personal,Lexus GX
+48286,9803,"Secaucus,  NJ",2019,Audi,Q7,Secaucus, NJ,0,1.0,Personal,Audi Q7
+10995,126055,"Newark,  NJ",2011,Mercedes-Benz,M-Class,Newark, NJ,0,2.0,Personal,Mercedes-Benz M-Class
+13680,88930,"Jersey City,  NJ",2012,Mercedes-Benz,E-Class,Jersey City, NJ,0,2.0,Fleet,Mercedes-Benz E-Class
+49801,17546,"New York,  NY",2017,Mercedes-Benz,GLS,New York, NY,0,1.0,Personal,Mercedes-Benz GLS
+9399,88697,"Union City,  NJ",2012,Honda,Civic,Union City, NJ,0,1.0,Personal,Honda Civic
+9495,111121,"Newark,  NJ",2010,Ford,F-150,Newark, NJ,0,3.0,Personal,Ford F-150
+29995,22462,"New York,  NY",2016,Lexus,RX,New York, NY,0,1.0,Personal,Lexus RX
+33286,13087,"Secaucus,  NJ",2019,Audi,A4,Secaucus, NJ,1,1.0,Personal,Audi A4
+17972,64685,"Jersey City,  NJ",2013,INFINITI,G,Jersey City, NJ,0,1.0,Personal,INFINITI G
+21797,37571,"New York,  NY",2019,Nissan,Pathfinder,New York, NY,0,1.0,Personal,Nissan Pathfinder
+14642,99031,"Carlstadt,  NJ",2013,Ford,F-150,Carlstadt, NJ,0,3.0,Personal,Ford F-150
+10990,36059,"New York,  NY",2011,Honda,CR-V,New York, NY,1,3.0,Personal,Honda CR-V
+49901,26988,"New York,  NY",2017,Mercedes-Benz,GLS,New York, NY,0,1.0,Personal,Mercedes-Benz GLS
+62905,12900,"New York,  NY",2019,Mercedes-Benz,CLS,New York, NY,0,1.0,Personal,Mercedes-Benz CLS
+10995,62510,"Union City,  NJ",2015,Nissan,Rogue Select,Union City, NJ,0,4.0,Personal,Nissan Rogue Select
+89500,18864,"New York,  NY",2017,Porsche,911,New York, NY,0,1.0,Personal,Porsche 911
+35901,29312,"New York,  NY",2017,Mercedes-Benz,E-Class,New York, NY,0,1.0,Personal,Mercedes-Benz E-Class
+29686,28701,"Secaucus,  NJ",2018,Audi,A5,Secaucus, NJ,0,1.0,Personal,Audi A5
+21990,36913,"Elmhurst,  NY",2017,Jeep,Grand Cherokee,Elmhurst, NY,0,1.0,Personal,Jeep Grand Cherokee
+20398,32266,"Brooklyn,  NY",2019,Toyota,Camry,Brooklyn, NY,0,1.0,Personal,Toyota Camry
+13990,76896,"New York,  NY",2017,Toyota,Camry,New York, NY,0,2.0,Personal,Toyota Camry
+11995,25619,"Newark,  NJ",2019,Volkswagen,Jetta,Newark, NJ,1,1.0,Personal,Volkswagen Jetta
+6799,131618,"Teterboro,  NJ",2015,Chrysler,200,Teterboro, NJ,0,1.0,Personal,Chrysler 200
+16035,29099,"Hackensack,  NJ",2019,Nissan,Altima,Hackensack, NJ,0,1.0,Personal,Nissan Altima
+12470,21551,"Brooklyn,  NY",2016,Ford,Fusion,Brooklyn, NY,0,1.0,Fleet,Ford Fusion
+12995,37777,"Greatneck,  NY",2017,Honda,Civic,Greatneck, NY,0,1.0,Personal,Honda Civic
+20498,30278,"Brooklyn,  NY",2019,Toyota,Camry,Brooklyn, NY,0,1.0,Personal,Toyota Camry
+18990,74225,"New York,  NY",2013,Jaguar,XJ,New York, NY,0,3.0,Personal,Jaguar XJ
+12800,17659,"North Plainfield,  NJ",2019,Volkswagen,Jetta,North Plainfield, NJ,0,1.0,Personal,Volkswagen Jetta
+16990,74747,"New York,  NY",2017,Honda,Accord,New York, NY,0,1.0,Fleet,Honda Accord
+9995,61785,"Scarsdale,  NY",2016,Ford,Fusion,Scarsdale, NY,0,2.0,Personal,Ford Fusion
+14900,23997,"Old Bridge,  NJ",2017,Honda,Accord,Old Bridge, NJ,0,1.0,Personal,Honda Accord
+3995,153256,"Ridgewood,  NY",2013,Dodge,Avenger,Ridgewood, NY,5,2.0,Fleet,Dodge Avenger
+9495,111284,"Saddle Brook,  NJ",2007,Mercedes-Benz,S-Class,Saddle Brook, NJ,0,4.0,Fleet,Mercedes-Benz S-Class
+12900,66525,"Rahway,  NJ",2017,Chevrolet,Equinox,Rahway, NJ,0,1.0,Fleet,Chevrolet Equinox
+9980,55585,"Paramus,  NJ",2015,Nissan,Altima,Paramus, NJ,1,2.0,Personal,Nissan Altima
+10505,45807,"Mahwah,  NJ",2016,Chevrolet,Trax,Mahwah, NJ,0,1.0,Personal,Chevrolet Trax
+3995,152839,"Belford,  NJ",1999,Ford,F-150,Belford, NJ,1,4.0,Personal,Ford F-150
+14990,38436,"New York,  NY",2017,Ford,Escape,New York, NY,0,1.0,Personal,Ford Escape
+9500,40823,"Hillside,  NJ",2016,Kia,Soul,Hillside, NJ,1,1.0,Personal,Kia Soul
+21990,40998,"New York,  NY",2017,Ford,Explorer,New York, NY,0,1.0,Fleet,Ford Explorer
+3999,95291,"Garfield,  NJ",2007,Subaru,Outback,Garfield, NJ,1,3.0,Personal,Subaru Outback
+12990,33749,"Elmhurst,  NY",2017,Nissan,Rogue,Elmhurst, NY,0,1.0,Fleet,Nissan Rogue
+15905,36180,"Elizabeth,  NJ",2017,Nissan,Rogue,Elizabeth, NJ,0,1.0,Personal,Nissan Rogue
+16045,29059,"Hackensack,  NJ",2019,Nissan,Altima,Hackensack, NJ,0,1.0,Personal,Nissan Altima
+17972,60765,"Jersey City,  NJ",2017,Jeep,Grand Cherokee,Jersey City, NJ,0,2.0,Personal,Jeep Grand Cherokee
+11590,71651,"New York,  NY",2016,Ford,Fusion,New York, NY,0,3.0,Personal,Ford Fusion
+24223,29012,"Larchmont,  NY",2017,Lexus,NX,Larchmont, NY,0,1.0,Personal,Lexus NX
+19900,15950,"Kearny,  NJ",2017,Nissan,Pathfinder,Kearny, NJ,0,1.0,Personal,Nissan Pathfinder
+44686,7587,"Secaucus,  NJ",2019,Audi,S4,Secaucus, NJ,0,1.0,Fleet,Audi S4
+12681,36977,"New York,  NY",2016,Volkswagen,Passat,New York, NY,0,1.0,Personal,Volkswagen Passat
+9900,63446,"Bayonne,  NJ",2016,Chrysler,200,Bayonne, NJ,0,1.0,Fleet,Chrysler 200
+1995,197486,"Staten Island,  NY",1998,Toyota,Camry,Staten Island, NY,1,3.0,Fleet,Toyota Camry
+37781,18437,"New York,  NY",2017,Audi,A8,New York, NY,0,1.0,Fleet,Audi A8
+21995,91165,"Newark,  NJ",2015,GMC,Sierra 1500,Newark, NJ,1,2.0,Personal,GMC Sierra 1500
+29498,12515,"New York,  NY",2019,Audi,A5,New York, NY,0,1.0,Fleet,Audi A5
+21686,39029,"Secaucus,  NJ",2017,Audi,A4,Secaucus, NJ,1,1.0,Personal,Audi A4
+8942,80186,"Carlstadt,  NJ",2013,Volkswagen,Golf,Carlstadt, NJ,0,2.0,Personal,Volkswagen Golf
+89901,27915,"New York,  NY",2017,Mercedes-Benz,G-Class,New York, NY,0,1.0,Personal,Mercedes-Benz G-Class
+16496,83535,"Jersey City,  NJ",2013,BMW,X5,Jersey City, NJ,0,1.0,Personal,BMW X5
+27399,12711,"New York,  NY",2017,BMW,X3,New York, NY,0,1.0,Personal,BMW X3
+49995,6174,"New York,  NY",2019,Porsche,Macan,New York, NY,0,1.0,Personal,Porsche Macan
+32686,7842,"Secaucus,  NJ",2019,Audi,A4,Secaucus, NJ,0,1.0,Personal,Audi A4
+59995,30485,"New York,  NY",2017,Lexus,LX,New York, NY,0,1.0,Personal,Lexus LX
+10999,68438,"Union City,  NJ",2012,Toyota,RAV4,Union City, NJ,1,2.0,Fleet,Toyota RAV4
+17097,29767,"New York,  NY",2019,Ford,EcoSport,New York, NY,0,1.0,Personal,Ford EcoSport
+16397,32888,"New York,  NY",2019,Volkswagen,Passat,New York, NY,0,1.0,Personal,Volkswagen Passat
+10995,65344,"Union City,  NJ",2011,Mazda,CX-9,Union City, NJ,0,1.0,Personal,Mazda CX-9
+11500,83750,"Kearny,  NJ",2009,Mercedes-Benz,M-Class,Kearny, NJ,0,3.0,Personal,Mercedes-Benz M-Class
+59995,35119,"New York,  NY",2017,Lexus,LX,New York, NY,0,1.0,Personal,Lexus LX
+16995,107311,"Union City,  NJ",2015,Honda,Pilot,Union City, NJ,1,1.0,Personal,Honda Pilot
+36901,12083,"New York,  NY",2017,Mercedes-Benz,E-Class,New York, NY,0,1.0,Personal,Mercedes-Benz E-Class
+3999,137510,"Brooklyn,  NY",2004,BMW,5 Series,Brooklyn, NY,0,4.0,Fleet,BMW 5 Series
+19990,45818,"New York,  NY",2017,Dodge,Charger,New York, NY,0,1.0,Personal,Dodge Charger
+221500,5748,"New York,  NY",2020,McLaren,600LT,New York, NY,0,1.0,Personal,McLaren 600LT
+15990,27435,"New York,  NY",2017,Jeep,Patriot,New York, NY,0,1.0,Personal,Jeep Patriot
+188800,6563,"New York,  NY",2019,Lamborghini,Huracan,New York, NY,0,1.0,Personal,Lamborghini Huracan
+29895,21331,"New York,  NY",2016,Jeep,Wrangler,New York, NY,0,1.0,Personal,Jeep Wrangler
+40861,3726,"Paramus,  NJ",2020,Mercedes-Benz,C-Class,Paramus, NJ,0,1.0,Personal,Mercedes-Benz C-Class
+39990,5743,"New York,  NY",2019,Lexus,RX,New York, NY,0,1.0,Personal,Lexus RX
+2499,131017,"Hasbrouck Heights,  NJ",2006,Mitsubishi,Galant,Hasbrouck Heights, NJ,2,2.0,Personal,Mitsubishi Galant
+10990,63546,"New York,  NY",2013,Ford,Fusion,New York, NY,0,2.0,Personal,Ford Fusion
+20490,45069,"Bronx,  NY",2018,Chrysler,Pacifica,Bronx, NY,0,1.0,Personal,Chrysler Pacifica
+8900,162445,"Belford,  NJ",2015,Honda,Crosstour,Belford, NJ,1,1.0,Personal,Honda Crosstour
+19888,14065,"Long Island City,  NY",2017,Ford,Escape,Long Island City, NY,3,1.0,Personal,Ford Escape
+19999,41232,"Hasbrouck Heights,  NJ",2007,Chevrolet,Corvette,Hasbrouck Heights, NJ,0,3.0,Personal,Chevrolet Corvette
+13881,39842,"New York,  NY",2019,Volkswagen,Jetta,New York, NY,0,1.0,Personal,Volkswagen Jetta
+15995,42733,"Hackensack,  NJ",2017,Ford,Escape,Hackensack, NJ,0,1.0,Fleet,Ford Escape
+17444,22417,"Tenafly,  NJ",2017,Honda,Accord,Tenafly, NJ,0,1.0,Personal,Honda Accord
+23590,33870,"New York,  NY",2017,Ford,Explorer,New York, NY,0,1.0,Fleet,Ford Explorer
+22300,63166,"Hazlet,  NJ",2017,Jeep,Grand Cherokee,Hazlet, NJ,0,1.0,Personal,Jeep Grand Cherokee
+19881,23760,"Avenel,  NJ",2019,Chevrolet,Express Passenger,Avenel, NJ,0,1.0,Fleet,Chevrolet Express Passenger
+3490,93281,"Riverdale,  NJ",2008,Chrysler,300,Riverdale, NJ,0,4.0,Fleet,Chrysler 300
+8900,77126,"Bronx,  NY",2014,Chevrolet,Equinox,Bronx, NY,0,2.0,Personal,Chevrolet Equinox
+14799,23980,"Union,  NJ",2017,Honda,Civic,Union, NJ,0,1.0,Personal,Honda Civic
+39901,30134,"New York,  NY",2017,Mercedes-Benz,GLC,New York, NY,0,1.0,Personal,Mercedes-Benz GLC
+17016,28335,"Brooklyn,  NY",2017,Honda,Accord,Brooklyn, NY,0,1.0,Personal,Honda Accord
+2995,137363,"Elmhurst,  NY",2007,Nissan,Sentra,Elmhurst, NY,0,3.0,Personal,Nissan Sentra
+3247,154991,"Verona,  NJ",2005,Honda,Civic,Verona, NJ,1,1.0,Personal,Honda Civic
+42994,4674,"Morristown,  NJ",2020,BMW,3 Series,Morristown, NJ,0,1.0,Personal,BMW 3 Series
+25900,29973,"Florham Park,  NJ",2017,Cadillac,XT5,Florham Park, NJ,0,2.0,Personal,Cadillac XT5
+7995,108077,"Union,  NJ",2009,Lexus,IS,Union, NJ,0,4.0,Fleet,Lexus IS
+39490,5635,"New York,  NY",2019,Lexus,RX,New York, NY,0,1.0,Personal,Lexus RX
+14886,52059,"Blauvelt,  NY",2015,Nissan,Pathfinder,Blauvelt, NY,0,3.0,Personal,Nissan Pathfinder
+12905,34587,"Elizabeth,  NJ",2017,Honda,Accord,Elizabeth, NJ,1,1.0,Personal,Honda Accord
+19999,93016,"Union City,  NJ",2015,BMW,X5,Union City, NJ,0,2.0,Fleet,BMW X5
+18995,90068,"Brooklyn,  NY",2014,BMW,X5,Brooklyn, NY,1,4.0,Fleet,BMW X5
+24344,32099,"Englewood,  NJ",2017,Lexus,ES,Englewood, NJ,0,1.0,Personal,Lexus ES
+16897,28319,"Jersey City,  NJ",2019,Mitsubishi,Outlander,Jersey City, NJ,0,1.0,Personal,Mitsubishi Outlander
+30686,15276,"Secaucus,  NJ",2018,Audi,A5,Secaucus, NJ,0,1.0,Personal,Audi A5
+8972,98629,"Jersey City,  NJ",2009,BMW,5 Series,Jersey City, NJ,1,2.0,Fleet,BMW 5 Series
+5999,143095,"Teterboro,  NJ",2013,Honda,Civic,Teterboro, NJ,2,2.0,Personal,Honda Civic
+18590,12293,"New York,  NY",2019,Toyota,Camry,New York, NY,0,1.0,Personal,Toyota Camry
+20999,25805,"Brooklyn,  NY",2017,Toyota,RAV4,Brooklyn, NY,0,1.0,Personal,Toyota RAV4
+17900,21661,"North Plainfield,  NJ",2018,Toyota,RAV4,North Plainfield, NJ,0,1.0,Personal,Toyota RAV4
+14900,26602,"Old Bridge,  NJ",2017,Honda,Accord,Old Bridge, NJ,0,1.0,Personal,Honda Accord
+18900,13057,"Hillside,  NJ",2019,Nissan,Rogue,Hillside, NJ,0,1.0,Personal,Nissan Rogue
+25888,9991,"Long Island City,  NY",2018,Jeep,Grand Cherokee,Long Island City, NY,0,1.0,Fleet,Jeep Grand Cherokee
+19333,28631,"Tenafly,  NJ",2017,Honda,Civic,Tenafly, NJ,0,1.0,Personal,Honda Civic
+11900,82111,"Hasbrouck Heights,  NJ",2007,Ford,Econoline Commercial Cutaway,Hasbrouck Heights, NJ,3,1.0,Personal,Ford Econoline Commercial Cutaway
+18990,25399,"New York,  NY",2019,Chevrolet,Impala,New York, NY,0,1.0,Personal,Chevrolet Impala
+4995,143000,"Staten Island,  NY",2006,Mercedes-Benz,M-Class,Staten Island, NY,0,6.0,Personal,Mercedes-Benz M-Class
+32286,41418,"Secaucus,  NJ",2017,Audi,Q7,Secaucus, NJ,0,1.0,Personal,Audi Q7
+15999,32509,"Brooklyn,  NY",2017,Toyota,Camry,Brooklyn, NY,0,1.0,Personal,Toyota Camry
+27136,27903,"Keyport,  NJ",2017,Ford,Explorer,Keyport, NJ,0,1.0,Personal,Ford Explorer
+19990,24502,"New York,  NY",2017,Ford,Edge,New York, NY,0,1.0,Fleet,Ford Edge
+18500,33839,"Butler,  NJ",2017,Ford,Escape,Butler, NJ,0,1.0,Fleet,Ford Escape
+18995,17234,"Edison,  NJ",2017,Honda,Accord,Edison, NJ,0,1.0,Personal,Honda Accord
+8995,72282,"Ridgewood,  NY",2013,Toyota,Venza,Ridgewood, NY,2,2.0,Fleet,Toyota Venza
+4999,124334,"Paterson,  NJ",2012,Scion,tC,Paterson, NJ,1,2.0,Personal,Scion tC
+19459,11265,"Hackensack,  NJ",2015,Ford,Edge,Hackensack, NJ,0,1.0,Fleet,Ford Edge
+13448,46287,"Hillside,  NJ",2018,Chevrolet,Malibu,Hillside, NJ,0,1.0,Personal,Chevrolet Malibu
+10900,38694,"Florham Park,  NJ",2018,Nissan,Sentra,Florham Park, NJ,0,1.0,Personal,Nissan Sentra
+18295,55152,"Saddle Brook,  NJ",2016,BMW,4 Series,Saddle Brook, NJ,0,1.0,Personal,BMW 4 Series
+10990,45094,"New York,  NY",2014,Volkswagen,Passat,New York, NY,0,3.0,Personal,Volkswagen Passat
+11999,87201,"Jamaica,  NY",2012,Mercedes-Benz,E-Class,Jamaica, NY,0,2.0,Personal,Mercedes-Benz E-Class
+14000,33810,"Old Bridge,  NJ",2017,Honda,Civic,Old Bridge, NJ,1,1.0,Personal,Honda Civic
+6995,113900,"Garfield,  NJ",2013,Ford,Fusion,Garfield, NJ,0,3.0,Fleet,Ford Fusion
+59901,11586,"New York,  NY",2017,Mercedes-Benz,GLE,New York, NY,0,1.0,Personal,Mercedes-Benz GLE
+26949,18820,"New York,  NY",2017,Volvo,XC60,New York, NY,0,1.0,Personal,Volvo XC60
+6677,100267,"Bloomfield,  NJ",2009,Subaru,Impreza,Bloomfield, NJ,0,2.0,Fleet,Subaru Impreza
+80995,26738,"New York,  NY",2017,Porsche,911,New York, NY,0,1.0,Personal,Porsche 911
+9942,85687,"Carlstadt,  NJ",2013,Ford,Fusion,Carlstadt, NJ,0,3.0,Fleet,Ford Fusion
+24995,119125,"Newark,  NJ",2012,Jeep,Grand Cherokee,Newark, NJ,1,5.0,Personal,Jeep Grand Cherokee
+5499,128559,"Union City,  NJ",2010,Mitsubishi,Lancer,Union City, NJ,0,4.0,Personal,Mitsubishi Lancer
+62901,27112,"New York,  NY",2017,Mercedes-Benz,S-Class,New York, NY,0,1.0,Personal,Mercedes-Benz S-Class
+36798,6715,"New York,  NY",2020,Volvo,V60 Cross Country,New York, NY,0,1.0,Personal,Volvo V60 Cross Country
+14542,20132,"Carlstadt,  NJ",2015,Honda,Accord,Carlstadt, NJ,0,2.0,Personal,Honda Accord
+83806,8245,"New York,  NY",2016,Mercedes-Benz,AMG GT,New York, NY,0,2.0,Personal,Mercedes-Benz AMG GT
+38286,5386,"Secaucus,  NJ",2019,Audi,A5,Secaucus, NJ,0,1.0,Personal,Audi A5
+17995,64155,"Newark,  NJ",2015,BMW,4 Series,Newark, NJ,0,1.0,Fleet,BMW 4 Series
+116901,37568,"New York,  NY",2018,Mercedes-Benz,S-Class,New York, NY,0,1.0,Personal,Mercedes-Benz S-Class
+9990,93406,"Newark,  NJ",2016,Ford,Transit Connect Wagon,Newark, NJ,0,1.0,Fleet,Ford Transit Connect Wagon
+20398,32266,"Brooklyn,  NY",2019,Toyota,Camry,Brooklyn, NY,0,1.0,Personal,Toyota Camry
+21995,48892,"Union City,  NJ",2017,Mercedes-Benz,C-Class,Union City, NJ,0,1.0,Personal,Mercedes-Benz C-Class
+49901,26759,"New York,  NY",2017,Mercedes-Benz,GLS,New York, NY,0,1.0,Personal,Mercedes-Benz GLS
+20498,30278,"Brooklyn,  NY",2019,Toyota,Camry,Brooklyn, NY,0,1.0,Personal,Toyota Camry
+22995,70937,"Union City,  NJ",2016,Mercedes-Benz,GLC,Union City, NJ,0,2.0,Personal,Mercedes-Benz GLC
+8900,36542,"Hillside,  NJ",2017,Hyundai,Elantra,Hillside, NJ,2,1.0,Personal,Hyundai Elantra
+7495,118378,"Bayonne,  NJ",2008,Subaru,Tribeca,Bayonne, NJ,0,2.0,Personal,Subaru Tribeca
+16995,58515,"Bayonne,  NJ",2011,Mercedes-Benz,GL,Bayonne, NJ,0,3.0,Fleet,Mercedes-Benz GL
+34727,34937,"New York,  NY",2018,Volvo,XC60,New York, NY,0,1.0,Personal,Volvo XC60
+105995,2932,"New York,  NY",2017,Porsche,911,New York, NY,0,1.0,Personal,Porsche 911
+15985,85220,"Union City,  NJ",2016,Mazda,CX-5,Union City, NJ,0,2.0,Personal,Mazda CX-5
+17900,62074,"Kearny,  NJ",2015,Hyundai,Genesis,Kearny, NJ,0,2.0,Fleet,Hyundai Genesis
+26895,29989,"New York,  NY",2017,Jeep,Grand Cherokee,New York, NY,0,1.0,Personal,Jeep Grand Cherokee
+22999,30982,"Union City,  NJ",2016,Mercedes-Benz,GLA,Union City, NJ,0,2.0,Fleet,Mercedes-Benz GLA
+26990,30898,"New York,  NY",2017,Jeep,Grand Cherokee,New York, NY,0,1.0,Personal,Jeep Grand Cherokee
+17995,90750,"Long Island City,  NY",2018,Honda,Accord,Long Island City, NY,0,1.0,Personal,Honda Accord
+105995,15470,"New York,  NY",2008,Bentley,Azure,New York, NY,0,4.0,Personal,Bentley Azure
+7899,97039,"Newark,  NJ",2013,Ford,Taurus,Newark, NJ,1,2.0,Personal,Ford Taurus
+9472,106391,"Jersey City,  NJ",2009,Lincoln,Town Car,Jersey City, NJ,0,2.0,Personal,Lincoln Town Car
+6495,90991,"Newark,  NJ",2014,Volkswagen,Passat,Newark, NJ,2,2.0,Personal,Volkswagen Passat
+21895,14392,"New York,  NY",2016,Jeep,Grand Cherokee,New York, NY,0,1.0,Personal,Jeep Grand Cherokee
+27505,28449,"New York,  NY",2017,Volvo,S90,New York, NY,0,1.0,Personal,Volvo S90
+12999,49451,"Union City,  NJ",2015,Honda,Civic,Union City, NJ,0,2.0,Fleet,Honda Civic
+10500,115967,"Long Island City,  NY",2007,Mercedes-Benz,S-Class,Long Island City, NY,0,5.0,Fleet,Mercedes-Benz S-Class
+39995,22501,"New York,  NY",2019,Volvo,XC90,New York, NY,0,1.0,Personal,Volvo XC90
+17697,18236,"New York,  NY",2019,Mitsubishi,Outlander,New York, NY,0,1.0,Personal,Mitsubishi Outlander
+12999,77828,"Newark,  NJ",2016,Honda,Odyssey,Newark, NJ,0,1.0,Personal,Honda Odyssey
+7500,88915,"Kearny,  NJ",2009,BMW,3 Series,Kearny, NJ,1,4.0,Personal,BMW 3 Series
+13995,65538,"Union City,  NJ",2011,BMW,X3,Union City, NJ,0,2.0,Personal,BMW X3
+36900,34069,"New York,  NY",2018,Volvo,XC90,New York, NY,0,1.0,Personal,Volvo XC90
+89901,487,"New York,  NY",2019,Mercedes-Benz,C-Class,New York, NY,0,1.0,Personal,Mercedes-Benz C-Class
+5399,149989,"Brooklyn,  NY",2009,BMW,3 Series,Brooklyn, NY,3,3.0,Personal,BMW 3 Series
+20999,25805,"Brooklyn,  NY",2017,Toyota,RAV4,Brooklyn, NY,0,1.0,Personal,Toyota RAV4
+18988,39316,"Bloomfield,  NJ",2017,Honda,Accord,Bloomfield, NJ,0,2.0,Personal,Honda Accord
+38901,12925,"New York,  NY",2017,Mercedes-Benz,E-Class,New York, NY,0,1.0,Personal,Mercedes-Benz E-Class
+19999,22214,"Bloomfield,  NJ",2017,Subaru,Forester,Bloomfield, NJ,0,1.0,Personal,Subaru Forester
+9999,41310,"Brooklyn,  NY",2016,Ford,Focus,Brooklyn, NY,0,1.0,Personal,Ford Focus
+14995,54326,"Union City,  NJ",2015,Honda,Accord,Union City, NJ,0,2.0,Personal,Honda Accord
+15999,32509,"Brooklyn,  NY",2017,Toyota,Camry,Brooklyn, NY,0,1.0,Personal,Toyota Camry
+13495,98393,"Newark,  NJ",2014,Ford,Explorer,Newark, NJ,0,3.0,Personal,Ford Explorer
+13942,62542,"Carlstadt,  NJ",2015,Ford,Mustang,Carlstadt, NJ,0,4.0,Fleet,Ford Mustang
+16656,80248,"Bloomfield,  NJ",2010,Mercedes-Benz,S-Class,Bloomfield, NJ,1,3.0,Fleet,Mercedes-Benz S-Class
+6742,62616,"Carlstadt,  NJ",2014,Volkswagen,Jetta,Carlstadt, NJ,0,3.0,Personal,Volkswagen Jetta
+26497,24759,"New York,  NY",2019,Ford,Flex,New York, NY,0,1.0,Personal,Ford Flex
+20398,30895,"Brooklyn,  NY",2019,Toyota,Camry,Brooklyn, NY,0,1.0,Personal,Toyota Camry
+15999,78173,"Union City,  NJ",2015,BMW,5 Series,Union City, NJ,0,3.0,Fleet,BMW 5 Series
+22990,44737,"New York,  NY",2017,Ford,Explorer,New York, NY,0,2.0,Personal,Ford Explorer
+28987,33850,"Larchmont,  NY",2017,Lexus,RX,Larchmont, NY,0,1.0,Personal,Lexus RX
+4800,160150,"Elmhurst,  NY",2007,Ford,Econoline Cargo Van,Elmhurst, NY,1,3.0,Fleet,Ford Econoline Cargo Van
+15895,8701,"Paramus,  NJ",2017,Honda,Civic,Paramus, NJ,0,1.0,Personal,Honda Civic
+8599,160446,"Garfield,  NJ",2007,Dodge,Ram 3500,Garfield, NJ,0,2.0,Personal,Dodge Ram 3500
+2699,136196,"Garfield,  NJ",2010,Chevrolet,Impala,Garfield, NJ,0,4.0,Personal,Chevrolet Impala
+8999,139907,"Garfield,  NJ",2006,Dodge,Ram 2500,Garfield, NJ,1,1.0,Personal,Dodge Ram 2500
+14495,31014,"Bayonne,  NJ",2019,Hyundai,Tucson,Bayonne, NJ,0,1.0,Personal,Hyundai Tucson
+7799,105097,"Hasbrouck Heights,  NJ",2009,Lexus,ES,Hasbrouck Heights, NJ,2,3.0,Personal,Lexus ES
+24891,22502,"Larchmont,  NY",2017,Lexus,ES,Larchmont, NY,0,1.0,Personal,Lexus ES
+17500,31671,"Hillside,  NJ",2019,Toyota,Camry,Hillside, NJ,1,1.0,Personal,Toyota Camry
+25900,26533,"Rahway,  NJ",2019,Dodge,Charger,Rahway, NJ,0,1.0,Personal,Dodge Charger
+9495,111121,"Newark,  NJ",2010,Ford,F-150,Newark, NJ,0,3.0,Personal,Ford F-150
+24995,18416,"Ramsey,  NJ",2017,Lexus,ES,Ramsey, NJ,0,1.0,Personal,Lexus ES
+30447,23171,"Larchmont,  NY",2017,Lexus,RX,Larchmont, NY,0,1.0,Personal,Lexus RX
+12995,29629,"Brooklyn,  NY",2017,Ford,Fusion,Brooklyn, NY,1,1.0,Personal,Ford Fusion
+72495,19457,"Union,  NJ",2017,Mercedes-Benz,GLE,Union, NJ,0,1.0,Personal,Mercedes-Benz GLE
+13988,37119,"Yonkers,  NY",2018,Nissan,Altima,Yonkers, NY,0,1.0,Personal,Nissan Altima
+7965,111407,"Vauxhall,  NJ",2016,Ford,Fusion,Vauxhall, NJ,0,2.0,Personal,Ford Fusion
+16225,45432,"Hackensack,  NJ",2017,Nissan,Rogue,Hackensack, NJ,0,1.0,Personal,Nissan Rogue
+12785,32398,"Elmont,  NY",2017,Honda,Civic,Elmont, NY,0,1.0,Fleet,Honda Civic
+14900,37191,"Hillside,  NJ",2019,Ford,Fusion,Hillside, NJ,0,1.0,Personal,Ford Fusion
+24391,58351,"Little Ferry,  NJ",2017,Jeep,Grand Cherokee,Little Ferry, NJ,1,2.0,Personal,Jeep Grand Cherokee
+21590,54791,"New York,  NY",2017,Ford,Explorer,New York, NY,0,2.0,Fleet,Ford Explorer
+23759,35425,"Ramsey,  NJ",2017,Lexus,ES,Ramsey, NJ,0,1.0,Personal,Lexus ES
+18999,40390,"Englewood,  NJ",2017,Lincoln,MKC,Englewood, NJ,0,2.0,Personal,Lincoln MKC
+10995,129982,"Newark,  NJ",2017,Kia,Optima,Newark, NJ,0,1.0,Personal,Kia Optima
+10590,48617,"New York,  NY",2013,Volkswagen,Passat,New York, NY,0,4.0,Personal,Volkswagen Passat
+14990,21732,"New York,  NY",2017,Ford,Fusion,New York, NY,0,2.0,Personal,Ford Fusion
+8973,101516,"Jersey City,  NJ",2011,Volvo,C70,Jersey City, NJ,0,3.0,Personal,Volvo C70
+17495,11306,"Long Island City,  NY",2019,Toyota,Camry,Long Island City, NY,1,1.0,Fleet,Toyota Camry
+11590,58591,"New York,  NY",2014,Volkswagen,Passat,New York, NY,0,4.0,Personal,Volkswagen Passat
+12995,47442,"Union City,  NJ",2017,Hyundai,Sonata,Union City, NJ,0,1.0,Personal,Hyundai Sonata
+13490,36875,"Elmwood Park,  NJ",2017,Honda,Civic,Elmwood Park, NJ,0,2.0,Personal,Honda Civic
+12590,28589,"New York,  NY",2014,Volkswagen,Passat,New York, NY,0,3.0,Personal,Volkswagen Passat
+15590,35531,"New York,  NY",2017,Chevrolet,Equinox,New York, NY,0,1.0,Personal,Chevrolet Equinox
+3972,133186,"Jersey City,  NJ",2010,Kia,Forte,Jersey City, NJ,0,2.0,Personal,Kia Forte
+15297,24433,"Jersey City,  NJ",2019,Kia,Soul,Jersey City, NJ,0,1.0,Personal,Kia Soul
+20990,33684,"New York,  NY",2017,Jeep,Grand Cherokee,New York, NY,0,1.0,Fleet,Jeep Grand Cherokee
+10988,40525,"Long Island City,  NY",2017,Nissan,Sentra,Long Island City, NY,0,2.0,Personal,Nissan Sentra
+41461,4677,"Paramus,  NJ",2020,Mercedes-Benz,GLC,Paramus, NJ,0,1.0,Personal,Mercedes-Benz GLC
+40671,3872,"Paramus,  NJ",2020,Mercedes-Benz,C-Class,Paramus, NJ,0,1.0,Personal,Mercedes-Benz C-Class
+5800,112908,"Elmhurst,  NY",2010,Ford,Transit Connect Van,Elmhurst, NY,0,6.0,Personal,Ford Transit Connect Van
+11888,15323,"Jamaica,  NY",2019,Nissan,Sentra,Jamaica, NY,0,1.0,Personal,Nissan Sentra
+13881,31974,"Avenel,  NJ",2017,Honda,Accord,Avenel, NJ,0,1.0,Personal,Honda Accord
+26990,17313,"New York,  NY",2019,Cadillac,XTS,New York, NY,0,1.0,Personal,Cadillac XTS
+39990,7686,"New York,  NY",2019,Lexus,RX,New York, NY,0,1.0,Personal,Lexus RX
+31686,26739,"Secaucus,  NJ",2017,Audi,S3,Secaucus, NJ,0,1.0,Personal,Audi S3
+11495,100098,"Elizabeth,  NJ",2014,Ford,Explorer,Elizabeth, NJ,0,1.0,Personal,Ford Explorer
+25495,32369,"Hackensack,  NJ",2017,Ford,Explorer,Hackensack, NJ,0,1.0,Personal,Ford Explorer
+9995,80898,"Saddle Brook,  NJ",2011,Audi,Q5,Saddle Brook, NJ,0,3.0,Personal,Audi Q5
+13990,29910,"New York,  NY",2017,Ford,Fusion,New York, NY,0,1.0,Personal,Ford Fusion
+15490,46024,"Watchung,  NJ",2017,Ford,Escape,Watchung, NJ,0,1.0,Personal,Ford Escape
+15208,29879,"Hillside,  NJ",2017,Toyota,Camry,Hillside, NJ,0,1.0,Personal,Toyota Camry
+8895,124095,"Verona,  NJ",2013,Acura,ILX,Verona, NJ,0,1.0,Personal,Acura ILX
+12999,63718,"Brooklyn,  NY",2014,Mercedes-Benz,CLA,Brooklyn, NY,0,3.0,Personal,Mercedes-Benz CLA
+12980,12395,"Avenel,  NJ",2017,Honda,Civic,Avenel, NJ,1,1.0,Personal,Honda Civic
+33994,4803,"Morristown,  NJ",2020,BMW,X2,Morristown, NJ,0,1.0,Personal,BMW X2
+18598,19708,"Valley Stream,  NY",2017,Toyota,RAV4,Valley Stream, NY,1,1.0,Personal,Toyota RAV4
+18500,20000,"Bayonne,  NJ",2019,Jeep,Compass,Bayonne, NJ,0,2.0,Fleet,Jeep Compass
+20500,17258,"Bronx,  NY",2017,Toyota,RAV4,Bronx, NY,0,1.0,Personal,Toyota RAV4
+28945,48486,"Hasbrouck Heights,  NJ",2016,Mercedes-Benz,Sprinter Passenger Van,Hasbrouck Heights, NJ,0,1.0,Personal,Mercedes-Benz Sprinter Passenger Van
+33286,4361,"Secaucus,  NJ",2019,Audi,A4,Secaucus, NJ,0,1.0,Personal,Audi A4
+15295,33115,"Union,  NJ",2017,Honda,Accord,Union, NJ,0,1.0,Personal,Honda Accord
+25404,29907,"Hazlet,  NJ",2017,Jeep,Grand Cherokee,Hazlet, NJ,0,1.0,Personal,Jeep Grand Cherokee
+20990,36300,"New York,  NY",2017,Jeep,Grand Cherokee,New York, NY,0,1.0,Personal,Jeep Grand Cherokee
+17995,69162,"Colonia,  NJ",2017,BMW,X3,Colonia, NJ,0,1.0,Personal,BMW X3
+12990,22239,"New York,  NY",2017,Chevrolet,Cruze,New York, NY,0,1.0,Personal,Chevrolet Cruze
+40990,9079,"New York,  NY",2019,Lexus,RX,New York, NY,0,1.0,Personal,Lexus RX
+10993,43109,"Jamaica,  NY",2018,Kia,Soul,Jamaica, NY,0,1.0,Personal,Kia Soul
+8995,163331,"Ridgewood,  NY",2012,Ford,Econoline Wagon,Ridgewood, NY,0,2.0,Personal,Ford Econoline Wagon
+9495,89362,"Middletown,  NJ",2011,GMC,Acadia,Middletown, NJ,2,4.0,Personal,GMC Acadia
+17995,68129,"Hasbrouck Heights,  NJ",2017,BMW,3 Series,Hasbrouck Heights, NJ,0,2.0,Personal,BMW 3 Series
+10590,54130,"New York,  NY",2013,Volkswagen,Passat,New York, NY,0,1.0,Personal,Volkswagen Passat
+19750,43672,"Avenel,  NJ",2017,Audi,Q5,Avenel, NJ,0,1.0,Personal,Audi Q5
+16100,21000,"Old Bridge,  NJ",2017,Honda,Accord,Old Bridge, NJ,0,1.0,Personal,Honda Accord
+11995,97465,"Newark,  NJ",2012,Jeep,Grand Cherokee,Newark, NJ,0,2.0,Personal,Jeep Grand Cherokee
+11999,103255,"Brooklyn,  NY",2017,Ram,1500,Brooklyn, NY,0,1.0,Personal,Ram 1500
+11495,42308,"Bayonne,  NJ",2018,Nissan,Altima,Bayonne, NJ,0,1.0,Personal,Nissan Altima
+3581,88288,"New York,  NY",2001,Chevrolet,S-10,New York, NY,0,5.0,Personal,Chevrolet S-10
+12489,54794,"Long Island City,  NY",2017,Nissan,Rogue,Long Island City, NY,0,1.0,Personal,Nissan Rogue
+10990,53417,"New York,  NY",2014,Volkswagen,Passat,New York, NY,0,3.0,Personal,Volkswagen Passat
+2699,167012,"Garfield,  NJ",2005,Chevrolet,Trailblazer,Garfield, NJ,0,2.0,Personal,Chevrolet Trailblazer
+28886,29380,"Secaucus,  NJ",2018,Audi,Q5,Secaucus, NJ,0,2.0,Personal,Audi Q5
+23599,25055,"Ramsey,  NJ",2017,Lexus,ES,Ramsey, NJ,1,1.0,Personal,Lexus ES
+16942,59871,"Carlstadt,  NJ",2017,Chevrolet,Traverse,Carlstadt, NJ,2,2.0,Personal,Chevrolet Traverse
+9949,44916,"Yonkers,  NY",2015,Kia,Optima,Yonkers, NY,0,3.0,Personal,Kia Optima
+7995,83912,"Union,  NJ",2014,Volkswagen,Passat,Union, NJ,1,1.0,Personal,Volkswagen Passat
+32788,10791,"Bayside,  NY",2017,Jeep,Wrangler,Bayside, NY,0,2.0,Personal,Jeep Wrangler
+3995,122327,"Elmhurst,  NY",2008,Chrysler,Town & Country,Elmhurst, NY,3,5.0,Personal,Chrysler Town & Country
+35939,41154,"Englewood,  NJ",2018,Mercedes-Benz,GLE,Englewood, NJ,0,1.0,Personal,Mercedes-Benz GLE
+9900,140075,"Hillside,  NJ",2013,Ford,Econoline Wagon,Hillside, NJ,0,2.0,Personal,Ford Econoline Wagon
+15988,41803,"Bloomfield,  NJ",2016,Nissan,Rogue,Bloomfield, NJ,0,1.0,Fleet,Nissan Rogue
+6995,117212,"Saddle Brook,  NJ",2012,Chevrolet,Traverse,Saddle Brook, NJ,0,2.0,Personal,Chevrolet Traverse
+10575,81449,"Keyport,  NJ",2015,Chevrolet,Equinox,Keyport, NJ,0,1.0,Personal,Chevrolet Equinox
+19998,18642,"Brooklyn,  NY",2017,Toyota,RAV4,Brooklyn, NY,0,1.0,Personal,Toyota RAV4
+12150,72513,"Avenel,  NJ",2013,Mercedes-Benz,GLK,Avenel, NJ,0,2.0,Personal,Mercedes-Benz GLK
+13350,58708,"Bronx,  NY",2017,Nissan,Rogue,Bronx, NY,0,1.0,Personal,Nissan Rogue
+15795,11824,"Paramus,  NJ",2017,Honda,Civic,Paramus, NJ,0,1.0,Personal,Honda Civic
+11898,57658,"Yonkers,  NY",2017,Nissan,Rogue,Yonkers, NY,1,2.0,Fleet,Nissan Rogue
+6899,177602,"Garfield,  NJ",2008,Toyota,Tundra,Garfield, NJ,0,1.0,Personal,Toyota Tundra
+17590,25422,"New York,  NY",2018,Chevrolet,Equinox,New York, NY,0,1.0,Personal,Chevrolet Equinox
+5450,158210,"Brooklyn,  NY",2004,Chevrolet,Tahoe,Brooklyn, NY,1,6.0,Personal,Chevrolet Tahoe
+26000,22500,"Butler,  NJ",2017,Ford,Explorer,Butler, NJ,0,1.0,Personal,Ford Explorer
+40495,7012,"New York,  NY",2019,Lexus,RX,New York, NY,0,1.0,Personal,Lexus RX
+47415,30654,"Hasbrouck Heights,  NJ",2019,Ford,Expedition,Hasbrouck Heights, NJ,0,1.0,Personal,Ford Expedition
+15900,31442,"Forest Hills,  NY",2017,Chevrolet,Malibu,Forest Hills, NY,1,1.0,Personal,Chevrolet Malibu
+12995,29723,"Long Island City,  NY",2017,Nissan,Rogue,Long Island City, NY,1,1.0,Personal,Nissan Rogue
+4995,166228,"Garfield,  NJ",2009,Jeep,Liberty,Garfield, NJ,0,3.0,Personal,Jeep Liberty
+29990,30808,"New York,  NY",2019,Ram,1500,New York, NY,0,1.0,Personal,Ram 1500
+18310,32199,"Jersey City,  NJ",2019,Nissan,Rogue,Jersey City, NJ,0,1.0,Personal,Nissan Rogue
+19871,24609,"Hawthorne,  NJ",2017,Chevrolet,Equinox,Hawthorne, NJ,0,1.0,Personal,Chevrolet Equinox
+29995,51697,"Teterboro,  NJ",2017,BMW,X5,Teterboro, NJ,0,1.0,Personal,BMW X5
+19990,30653,"Elmhurst,  NY",2017,Subaru,WRX,Elmhurst, NY,0,1.0,Personal,Subaru WRX
+21990,42375,"New York,  NY",2017,Ford,Explorer,New York, NY,0,1.0,Personal,Ford Explorer
+19750,27692,"Avenel,  NJ",2017,Mercedes-Benz,C-Class,Avenel, NJ,1,1.0,Personal,Mercedes-Benz C-Class
+35995,4507,"Edison,  NJ",2020,Land,Rover Discovery Sport,Edison, NJ,0,1.0,Personal,Land Rover Discovery Sport
+15900,27651,"Wayne,  NJ",2016,Mazda,CX-5,Wayne, NJ,0,2.0,Personal,Mazda CX-5
+4995,128427,"Lodi,  NJ",2009,Toyota,Camry,Lodi, NJ,3,7.0,Personal,Toyota Camry
+48500,29090,"New York,  NY",2015,Maserati,GranTurismo,New York, NY,0,2.0,Personal,Maserati GranTurismo
+14905,29103,"Elizabeth,  NJ",2017,Acura,TLX,Elizabeth, NJ,1,1.0,Personal,Acura TLX
+12995,34451,"Elizabeth,  NJ",2017,Honda,Civic,Elizabeth, NJ,0,2.0,Personal,Honda Civic
+12891,40860,"Long Island City,  NY",2017,Nissan,Rogue,Long Island City, NY,0,1.0,Personal,Nissan Rogue
+9500,40823,"Hillside,  NJ",2016,Kia,Soul,Hillside, NJ,1,1.0,Personal,Kia Soul
+38392,5819,"Secaucus,  NJ",2019,Audi,A5,Secaucus, NJ,1,1.0,Personal,Audi A5
+35801,16482,"New York,  NY",2017,Mercedes-Benz,GLC,New York, NY,0,1.0,Personal,Mercedes-Benz GLC
+16998,32065,"Hasbrouck Heights,  NJ",2017,Volvo,S60,Hasbrouck Heights, NJ,0,1.0,Personal,Volvo S60
+13995,6797,"Newark,  NJ",2019,Mitsubishi,Outlander Sport,Newark, NJ,1,1.0,Fleet,Mitsubishi Outlander Sport
+74901,19319,"New York,  NY",2019,Mercedes-Benz,GLS,New York, NY,0,1.0,Personal,Mercedes-Benz GLS
+19999,52047,"Union City,  NJ",2016,Ford,Explorer,Union City, NJ,0,2.0,Fleet,Ford Explorer
+14542,61060,"Carlstadt,  NJ",2016,Volvo,XC60,Carlstadt, NJ,0,1.0,Personal,Volvo XC60
+10998,87749,"Hasbrouck Heights,  NJ",2014,Honda,CR-V,Hasbrouck Heights, NJ,0,1.0,Personal,Honda CR-V
+9900,9304,"Hillside,  NJ",2019,Ford,Fiesta,Hillside, NJ,0,1.0,Personal,Ford Fiesta
+31998,19181,"New York,  NY",2018,Volvo,S90,New York, NY,0,1.0,Personal,Volvo S90
+9500,37153,"Hillside,  NJ",2018,Ford,Focus,Hillside, NJ,1,2.0,Personal,Ford Focus
+21249,23235,"Bloomfield,  NJ",2019,Hyundai,Santa Fe,Bloomfield, NJ,1,1.0,Personal,Hyundai Santa Fe
+67995,7396,"New York,  NY",2019,Porsche,Cayenne,New York, NY,0,1.0,Personal,Porsche Cayenne
+14242,11271,"Carlstadt,  NJ",2019,Toyota,Corolla,Carlstadt, NJ,1,1.0,Personal,Toyota Corolla
+19888,14065,"Long Island City,  NY",2017,Ford,Escape,Long Island City, NY,3,1.0,Personal,Ford Escape
+19905,33345,"Elizabeth,  NJ",2018,Ford,Explorer,Elizabeth, NJ,1,1.0,Personal,Ford Explorer
+19477,39654,"Bloomfield,  NJ",2017,Subaru,Forester,Bloomfield, NJ,0,1.0,Personal,Subaru Forester
+68999,27421,"Staten Island,  NY",2015,Nissan,GT-R,Staten Island, NY,0,2.0,Personal,Nissan GT-R
+11495,100098,"Elizabeth,  NJ",2014,Ford,Explorer,Elizabeth, NJ,0,1.0,Personal,Ford Explorer
+230995,9929,"New York,  NY",2019,Lamborghini,Urus,New York, NY,0,1.0,Personal,Lamborghini Urus
+4500,149999,"Kearny,  NJ",2008,Volkswagen,Jetta,Kearny, NJ,0,4.0,Personal,Volkswagen Jetta
+40995,20488,"New York,  NY",2018,Porsche,Macan,New York, NY,0,1.0,Personal,Porsche Macan
+22972,115437,"Jersey City,  NJ",2015,BMW,4 Series,Jersey City, NJ,0,3.0,Personal,BMW 4 Series
+39986,6540,"Secaucus,  NJ",2019,Audi,A5,Secaucus, NJ,0,1.0,Personal,Audi A5
+17800,92613,"Jersey City,  NJ",2013,Subaru,Impreza WRX,Jersey City, NJ,0,1.0,Personal,Subaru Impreza WRX
+16942,65372,"Carlstadt,  NJ",2017,Mercedes-Benz,Metris Passenger Van,Carlstadt, NJ,0,1.0,Personal,Mercedes-Benz Metris Passenger Van
+35998,15794,"New York,  NY",2017,Volvo,XC90,New York, NY,0,1.0,Personal,Volvo XC90
+11599,115458,"Union City,  NJ",2011,Jeep,Grand Cherokee,Union City, NJ,0,3.0,Personal,Jeep Grand Cherokee
+7981,48289,"New York,  NY",2013,Volkswagen,Jetta,New York, NY,0,2.0,Personal,Volkswagen Jetta
+7950,133794,"Hillside,  NJ",2012,GMC,Acadia,Hillside, NJ,0,2.0,Personal,GMC Acadia
+12642,93784,"Carlstadt,  NJ",2010,Ford,F-150,Carlstadt, NJ,0,2.0,Personal,Ford F-150
+29995,15147,"New York,  NY",2017,Lexus,NX,New York, NY,0,1.0,Personal,Lexus NX
+12859,23576,"Brooklyn,  NY",2017,Nissan,Sentra,Brooklyn, NY,0,2.0,Fleet,Nissan Sentra
+4995,167738,"Hasbrouck Heights,  NJ",2012,Toyota,Prius,Hasbrouck Heights, NJ,3,3.0,Personal,Toyota Prius
+48595,18069,"New York,  NY",2019,Volvo,XC90,New York, NY,0,,Personal,Volvo XC90
+15208,29879,"Hillside,  NJ",2017,Toyota,Camry,Hillside, NJ,0,1.0,Personal,Toyota Camry
+25888,9991,"Long Island City,  NY",2018,Jeep,Grand Cherokee,Long Island City, NY,0,1.0,Fleet,Jeep Grand Cherokee
+2200,185900,"Staten Island,  NY",2005,Mitsubishi,Endeavor,Staten Island, NY,0,4.0,Personal,Mitsubishi Endeavor
+18900,13057,"Hillside,  NJ",2019,Nissan,Rogue,Hillside, NJ,0,1.0,Personal,Nissan Rogue
+33686,5665,"Secaucus,  NJ",2019,Audi,A4,Secaucus, NJ,0,1.0,Personal,Audi A4
+28480,31715,"New York,  NY",2016,Volvo,XC70,New York, NY,0,1.0,Personal,Volvo XC70
+12999,142077,"Brooklyn,  NY",2014,Chrysler,300,Brooklyn, NY,0,2.0,Personal,Chrysler 300
+17999,37240,"Union City,  NJ",2017,Honda,Accord,Union City, NJ,1,1.0,Personal,Honda Accord
+13450,108441,"Jersey City,  NJ",2014,Honda,Civic,Jersey City, NJ,0,2.0,Personal,Honda Civic
+10982,125988,"Hasbrouck Heights,  NJ",2012,Chevrolet,Silverado 1500,Hasbrouck Heights, NJ,2,1.0,Personal,Chevrolet Silverado 1500
+13905,38766,"Elizabeth,  NJ",2017,Toyota,RAV4,Elizabeth, NJ,1,1.0,Personal,Toyota RAV4
+6995,169905,"Newark,  NJ",2010,Toyota,Sienna,Newark, NJ,0,2.0,Personal,Toyota Sienna
+17888,19112,"Brooklyn,  NY",2017,Honda,HR-V,Brooklyn, NY,0,1.0,Personal,Honda HR-V
+7800,95090,"Brooklyn,  NY",2015,Hyundai,Sonata,Brooklyn, NY,0,1.0,Personal,Hyundai Sonata
+13981,78507,"Long Island City,  NY",2017,Honda,Accord,Long Island City, NY,0,1.0,Personal,Honda Accord
+125995,9298,"New York,  NY",2015,Porsche,911,New York, NY,0,2.0,Personal,Porsche 911
+2795,172400,"Staten Island,  NY",1999,Honda,CR-V,Staten Island, NY,2,2.0,Personal,Honda CR-V
+21995,53669,"Union City,  NJ",2015,Honda,Odyssey,Union City, NJ,0,1.0,Personal,Honda Odyssey
+34999,44563,"New York,  NY",2017,Volvo,V90 Cross Country,New York, NY,0,1.0,Personal,Volvo V90 Cross Country
+7750,121777,"Brooklyn,  NY",2007,BMW,X5,Brooklyn, NY,0,4.0,Personal,BMW X5
+14500,35369,"Hillside,  NJ",2017,Toyota,Camry,Hillside, NJ,0,2.0,Personal,Toyota Camry
+23574,23496,"Long Island City,  NY",2017,Mercedes-Benz,CLA,Long Island City, NY,1,1.0,Personal,Mercedes-Benz CLA
+18690,19951,"Elmhurst,  NY",2019,Honda,Accord,Elmhurst, NY,0,1.0,Personal,Honda Accord
+18995,90068,"Brooklyn,  NY",2014,BMW,X5,Brooklyn, NY,1,4.0,Fleet,BMW X5
+27998,30453,"Brooklyn,  NY",2017,Toyota,RAV4,Brooklyn, NY,0,2.0,Personal,Toyota RAV4
+1995,232753,"Hasbrouck Heights,  NJ",2000,Nissan,Xterra,Hasbrouck Heights, NJ,1,5.0,Personal,Nissan Xterra
+24295,18354,"Brooklyn,  NY",2016,Lexus,ES,Brooklyn, NY,0,1.0,Personal,Lexus ES
+5695,64835,"Belleville,  NJ",2006,Nissan,Altima,Belleville, NJ,1,4.0,Personal,Nissan Altima
+23792,85908,"Jersey City,  NJ",2014,BMW,X6,Jersey City, NJ,0,2.0,Personal,BMW X6
+15499,114290,"Union City,  NJ",2016,Honda,CR-V,Union City, NJ,0,1.0,Personal,Honda CR-V
+18905,47081,"Elizabeth,  NJ",2017,Ford,Explorer,Elizabeth, NJ,0,1.0,Personal,Ford Explorer
+27972,78293,"Jersey City,  NJ",2013,Mercedes-Benz,GL,Jersey City, NJ,0,1.0,Personal,Mercedes-Benz GL
+22397,24914,"New York,  NY",2019,Toyota,RAV4,New York, NY,0,1.0,Personal,Toyota RAV4
+16995,27668,"Newark,  NJ",2018,Toyota,Camry,Newark, NJ,0,2.0,Personal,Toyota Camry
+4500,131568,"Hillside,  NJ",2010,Nissan,Rogue,Hillside, NJ,0,3.0,Personal,Nissan Rogue
+25995,54843,"Union City,  NJ",2017,Jeep,Grand Cherokee,Union City, NJ,1,1.0,Personal,Jeep Grand Cherokee
+11542,81813,"Carlstadt,  NJ",2013,BMW,5 Series,Carlstadt, NJ,0,2.0,Fleet,BMW 5 Series
+19995,7753,"Newark,  NJ",2020,Nissan,Altima,Newark, NJ,0,1.0,Fleet,Nissan Altima
+8900,47482,"Hillside,  NJ",2017,Hyundai,Elantra,Hillside, NJ,2,3.0,Personal,Hyundai Elantra
+12495,110616,"Union City,  NJ",2013,INFINITI,JX35,Union City, NJ,0,2.0,Personal,INFINITI JX35
+5295,130782,"Newark,  NJ",2013,Nissan,Sentra,Newark, NJ,0,2.0,Fleet,Nissan Sentra
+14966,9738,"Bloomfield,  NJ",2019,Nissan,Sentra,Bloomfield, NJ,0,1.0,Personal,Nissan Sentra
+15900,53819,"Hillside,  NJ",2016,Mercedes-Benz,Metris Passenger Van,Hillside, NJ,0,2.0,Personal,Mercedes-Benz Metris Passenger Van
+15995,51019,"Long Island City,  NY",2017,Hyundai,Santa Fe Sport,Long Island City, NY,0,1.0,Personal,Hyundai Santa Fe Sport
+20495,26922,"Brooklyn,  NY",2015,Nissan,Armada,Brooklyn, NY,0,1.0,Personal,Nissan Armada
+17495,34719,"Elizabeth,  NJ",2017,Audi,A4,Elizabeth, NJ,1,1.0,Fleet,Audi A4
+12990,52977,"Elmhurst,  NY",2018,Honda,HR-V,Elmhurst, NY,0,1.0,Personal,Honda HR-V
+21995,67842,"Brooklyn,  NY",2017,Dodge,Durango,Brooklyn, NY,0,1.0,Personal,Dodge Durango
+8570,94966,"Bloomfield,  NJ",2015,Nissan,Altima,Bloomfield, NJ,0,3.0,Fleet,Nissan Altima
+38686,5649,"Secaucus,  NJ",2019,Audi,A5,Secaucus, NJ,0,1.0,Personal,Audi A5
+15995,67211,"Union City,  NJ",2013,Toyota,Sienna,Union City, NJ,1,1.0,Personal,Toyota Sienna
+17495,34719,"Elizabeth,  NJ",2017,Audi,A4,Elizabeth, NJ,1,1.0,Fleet,Audi A4
+15905,33099,"Hackensack,  NJ",2019,Nissan,Altima,Hackensack, NJ,0,1.0,Personal,Nissan Altima
+9995,125102,"Brooklyn,  NY",2014,Toyota,Sienna,Brooklyn, NY,0,2.0,Personal,Toyota Sienna
+12995,110020,"Bayonne,  NJ",2016,Ford,Edge,Bayonne, NJ,0,1.0,Personal,Ford Edge
+8995,118180,"Union City,  NJ",2009,Toyota,Venza,Union City, NJ,0,1.0,Personal,Toyota Venza
+14499,57650,"Teterboro,  NJ",2012,Lexus,RX,Teterboro, NJ,0,1.0,Personal,Lexus RX
+21249,23235,"Bloomfield,  NJ",2019,Hyundai,Santa Fe,Bloomfield, NJ,1,1.0,Personal,Hyundai Santa Fe
+27995,45658,"Ridgewood,  NY",2018,Toyota,Highlander,Ridgewood, NY,0,1.0,Fleet,Toyota Highlander
+2999,139628,"Garfield,  NJ",2008,Chevrolet,Equinox,Garfield, NJ,0,4.0,Personal,Chevrolet Equinox
+4999,148870,"Garfield,  NJ",2009,Volvo,XC70,Garfield, NJ,0,3.0,Personal,Volvo XC70
+16990,21368,"New York,  NY",2018,Chevrolet,Equinox,New York, NY,0,1.0,Personal,Chevrolet Equinox
+26872,25625,"Hazlet,  NJ",2017,Jeep,Grand Cherokee,Hazlet, NJ,0,1.0,Personal,Jeep Grand Cherokee
+39995,3533,"Union,  NJ",2020,Mercedes-Benz,CLA,Union, NJ,0,1.0,Personal,Mercedes-Benz CLA
+31495,39448,"Bronx,  NY",2016,Land,Rover Range Rover Sport,Bronx, NY,1,1.0,Personal,Land Rover Range Rover Sport
+9990,101828,"New York,  NY",2013,Chevrolet,Volt,New York, NY,0,1.0,Personal,Chevrolet Volt
+17984,88193,"Jersey City,  NJ",2013,BMW,7 Series,Jersey City, NJ,0,2.0,Personal,BMW 7 Series
+18453,61021,"Elizabeth,  NJ",2013,GMC,Acadia,Elizabeth, NJ,1,1.0,Personal,GMC Acadia
+47990,40663,"New York,  NY",2017,Tesla,Model S,New York, NY,0,2.0,Personal,Tesla Model S
+8995,87088,"Elmhurst,  NY",2015,Volkswagen,Jetta,Elmhurst, NY,0,1.0,Personal,Volkswagen Jetta
+18495,34696,"Hasbrouck Heights,  NJ",2017,Volvo,S60,Hasbrouck Heights, NJ,0,1.0,Personal,Volvo S60
+13990,30478,"New York,  NY",2019,Nissan,Sentra,New York, NY,0,1.0,Personal,Nissan Sentra
+9942,85687,"Carlstadt,  NJ",2013,Ford,Fusion,Carlstadt, NJ,0,3.0,Fleet,Ford Fusion
+20968,16953,"Hillside,  NJ",2017,Nissan,Rogue,Hillside, NJ,1,1.0,Personal,Nissan Rogue
+19477,39654,"Bloomfield,  NJ",2017,Subaru,Forester,Bloomfield, NJ,0,1.0,Personal,Subaru Forester
+13449,103284,"Verona,  NJ",2008,Lexus,LS,Verona, NJ,0,1.0,Personal,Lexus LS
+11994,11190,"Forest Hills,  NY",2016,Chevrolet,Cruze,Forest Hills, NY,0,1.0,Personal,Chevrolet Cruze
+10990,52011,"New York,  NY",2014,Volkswagen,Passat,New York, NY,0,2.0,Fleet,Volkswagen Passat
+28990,73016,"New York,  NY",2016,Porsche,Macan,New York, NY,0,2.0,Personal,Porsche Macan
+17295,35635,"Union,  NJ",2017,Honda,Accord,Union, NJ,0,2.0,Personal,Honda Accord
+15500,23662,"Mamaroneck,  NY",2017,Toyota,Camry,Mamaroneck, NY,0,1.0,Personal,Toyota Camry
+26590,22004,"New York,  NY",2017,Jeep,Grand Cherokee,New York, NY,0,1.0,Personal,Jeep Grand Cherokee
+14990,35938,"New York,  NY",2017,Ford,Escape,New York, NY,0,1.0,Personal,Ford Escape
+18799,116499,"Union City,  NJ",2013,Jeep,Wrangler,Union City, NJ,1,2.0,Personal,Jeep Wrangler
+8990,32324,"Elmhurst,  NY",2017,Nissan,Sentra,Elmhurst, NY,0,1.0,Personal,Nissan Sentra
+10895,33198,"Lodi,  NJ",2017,Nissan,Altima,Lodi, NJ,0,1.0,Personal,Nissan Altima
+32990,45837,"Elmhurst,  NY",2018,Audi,S4,Elmhurst, NY,0,1.0,Personal,Audi S4
+14495,28268,"Bayonne,  NJ",2019,Hyundai,Tucson,Bayonne, NJ,0,1.0,Personal,Hyundai Tucson
+14542,20132,"Carlstadt,  NJ",2015,Honda,Accord,Carlstadt, NJ,0,2.0,Personal,Honda Accord
+14980,33678,"Yonkers,  NY",2017,Nissan,Rogue,Yonkers, NY,0,2.0,Personal,Nissan Rogue
+25797,29042,"Little Falls,  NJ",2018,Audi,A5,Little Falls, NJ,1,3.0,Personal,Audi A5
+8999,102312,"Irvington,  NJ",2016,Toyota,Corolla,Irvington, NJ,0,2.0,Fleet,Toyota Corolla
+4999,165920,"Garfield,  NJ",2009,Toyota,Avalon,Garfield, NJ,0,1.0,Personal,Toyota Avalon
+14900,59565,"New York,  NY",2017,Toyota,Camry,New York, NY,0,2.0,Fleet,Toyota Camry
+2995,85785,"Garfield,  NJ",2007,Ford,Freestyle,Garfield, NJ,3,3.0,Personal,Ford Freestyle
+13888,27176,"Bronx,  NY",2017,Nissan,Sentra,Bronx, NY,0,1.0,Personal,Nissan Sentra
+27495,60200,"New York,  NY",2015,Lexus,GX,New York, NY,0,1.0,Personal,Lexus GX
+17145,19004,"Brooklyn,  NY",2017,Honda,Accord,Brooklyn, NY,0,1.0,Personal,Honda Accord
+24897,39339,"New York,  NY",2019,Mazda,CX-9,New York, NY,0,1.0,Personal,Mazda CX-9
+38439,12163,"Englewood,  NJ",2020,Mercedes-Benz,GLC,Englewood, NJ,0,1.0,Personal,Mercedes-Benz GLC
+16295,21805,"Union,  NJ",2017,Honda,Accord,Union, NJ,0,1.0,Personal,Honda Accord
+9990,10082,"Elmhurst,  NY",2017,Nissan,Sentra,Elmhurst, NY,0,1.0,Personal,Nissan Sentra
+18070,35518,"Jersey City,  NJ",2019,Nissan,Rogue,Jersey City, NJ,0,1.0,Personal,Nissan Rogue
+17990,32065,"New York,  NY",2017,Buick,Envision,New York, NY,0,1.0,Personal,Buick Envision
+16750,40949,"Avenel,  NJ",2017,INFINITI,QX50,Avenel, NJ,1,1.0,Personal,INFINITI QX50
+16903,3797,"Yonkers,  NY",2019,Nissan,Altima,Yonkers, NY,0,1.0,Personal,Nissan Altima
+9995,81711,"Hasbrouck Heights,  NJ",2008,Lexus,RX,Hasbrouck Heights, NJ,0,3.0,Personal,Lexus RX
+32195,17428,"Hasbrouck Heights,  NJ",2017,Mercedes-Benz,E-Class,Hasbrouck Heights, NJ,0,1.0,Personal,Mercedes-Benz E-Class
+15927,15369,"West Caldwell,  NJ",2017,Honda,Accord,West Caldwell, NJ,0,1.0,Personal,Honda Accord
+22792,85399,"Jersey City,  NJ",2014,BMW,6 Series,Jersey City, NJ,0,3.0,Fleet,BMW 6 Series
+5995,97783,"Saddle Brook,  NJ",2014,Volkswagen,Jetta,Saddle Brook, NJ,0,1.0,Personal,Volkswagen Jetta
+15997,35412,"New York,  NY",2020,Toyota,Corolla,New York, NY,0,1.0,Personal,Toyota Corolla
+29536,29705,"Keyport,  NJ",2016,Ford,F-150,Keyport, NJ,0,1.0,Personal,Ford F-150
+25246,31542,"Edison,  NJ",2017,Lexus,ES,Edison, NJ,0,1.0,Personal,Lexus ES
+5595,163479,"Jamaica,  NY",2008,BMW,3 Series,Jamaica, NY,0,4.0,Personal,BMW 3 Series
+16990,9243,"New York,  NY",2019,Kia,Optima,New York, NY,0,1.0,Fleet,Kia Optima
+20900,25711,"Florham Park,  NJ",2017,Jeep,Grand Cherokee,Florham Park, NJ,0,1.0,Personal,Jeep Grand Cherokee
+11297,29921,"New York,  NY",2019,Ford,Fiesta,New York, NY,0,1.0,Personal,Ford Fiesta
+18058,62255,"Forest Hills,  NY",2015,Mercedes-Benz,M-Class,Forest Hills, NY,1,3.0,Personal,Mercedes-Benz M-Class
+13995,66262,"Union City,  NJ",2014,Audi,A4,Union City, NJ,0,1.0,Personal,Audi A4
+3999,154025,"Garfield,  NJ",2008,Jeep,Grand Cherokee,Garfield, NJ,0,1.0,Personal,Jeep Grand Cherokee
+30894,19749,"Morristown,  NJ",2017,BMW,3 Series,Morristown, NJ,0,1.0,Personal,BMW 3 Series
+10900,9040,"Hillside,  NJ",2017,Kia,Forte,Hillside, NJ,0,1.0,Personal,Kia Forte
+14498,136495,"South Hackensack,  NJ",2015,Ford,Explorer,South Hackensack, NJ,1,1.0,Personal,Ford Explorer
+10997,24059,"Hillside,  NJ",2015,Kia,Optima,Hillside, NJ,0,1.0,Personal,Kia Optima
+12900,10618,"Hillside,  NJ",2019,Hyundai,Elantra,Hillside, NJ,0,1.0,Personal,Hyundai Elantra
+5495,50120,"Saddle Brook,  NJ",2008,Ford,Taurus,Saddle Brook, NJ,0,2.0,Personal,Ford Taurus
+19795,27522,"Paramus,  NJ",2017,Honda,Accord,Paramus, NJ,0,1.0,Personal,Honda Accord
+27688,53412,"Little Falls,  NJ",2016,Lexus,GX,Little Falls, NJ,0,1.0,Fleet,Lexus GX
+23995,20351,"Elizabeth,  NJ",2017,Mercedes-Benz,C-Class,Elizabeth, NJ,1,1.0,Personal,Mercedes-Benz C-Class
+15275,45410,"Belford,  NJ",2017,Nissan,Rogue,Belford, NJ,0,1.0,Personal,Nissan Rogue
+14680,11715,"Wayne,  NJ",2019,Hyundai,Sonata,Wayne, NJ,0,1.0,Personal,Hyundai Sonata
+4495,128776,"Belleville,  NJ",2011,Nissan,Sentra,Belleville, NJ,0,2.0,Personal,Nissan Sentra
+23722,7959,"Forest Hills,  NY",2017,Chrysler,Pacifica,Forest Hills, NY,0,1.0,Personal,Chrysler Pacifica
+9998,87310,"Yonkers,  NY",2010,Mercedes-Benz,GLK,Yonkers, NY,0,4.0,Personal,Mercedes-Benz GLK
+17990,7126,"New York,  NY",2017,Toyota,Camry,New York, NY,0,1.0,Personal,Toyota Camry
+4995,150452,"Garfield,  NJ",2006,BMW,3 Series,Garfield, NJ,2,2.0,Personal,BMW 3 Series
+13990,47830,"New York,  NY",2017,Nissan,Altima,New York, NY,0,1.0,Fleet,Nissan Altima
+5995,115116,"Long Island City,  NY",2011,Ford,Escape,Long Island City, NY,2,4.0,Fleet,Ford Escape
+4900,174454,"Hillside,  NJ",2011,GMC,Acadia,Hillside, NJ,2,4.0,Personal,GMC Acadia
+16990,54734,"Elmhurst,  NY",2017,Acura,RDX,Elmhurst, NY,0,1.0,Personal,Acura RDX
+18995,25989,"Union City,  NJ",2017,Honda,Accord,Union City, NJ,0,1.0,Personal,Honda Accord
+15981,61727,"New York,  NY",2016,Volkswagen,Jetta,New York, NY,0,1.0,Personal,Volkswagen Jetta
+16536,29588,"Union,  NJ",2017,Honda,Accord,Union, NJ,0,1.0,Personal,Honda Accord
+14990,19318,"Elmhurst,  NY",2017,Toyota,RAV4,Elmhurst, NY,0,1.0,Personal,Toyota RAV4
+16542,11615,"Carlstadt,  NJ",2019,Subaru,Impreza,Carlstadt, NJ,0,1.0,Fleet,Subaru Impreza
+3999,109811,"Teterboro,  NJ",2007,Jeep,Liberty,Teterboro, NJ,0,3.0,Personal,Jeep Liberty
+18488,1130,"Bloomfield,  NJ",2019,Subaru,Impreza,Bloomfield, NJ,0,1.0,Personal,Subaru Impreza
+16995,72397,"Union City,  NJ",2016,Honda,Odyssey,Union City, NJ,0,2.0,Personal,Honda Odyssey
+5795,78100,"Lyndhurst,  NJ",2009,Kia,Sorento,Lyndhurst, NJ,0,4.0,Personal,Kia Sorento
+21900,27027,"Kearny,  NJ",2017,Hyundai,Tucson,Kearny, NJ,0,1.0,Personal,Hyundai Tucson
+13555,19458,"Newark,  NJ",2019,Kia,Optima,Newark, NJ,0,2.0,Fleet,Kia Optima
+9995,114168,"Bayonne,  NJ",2012,BMW,5 Series,Bayonne, NJ,0,4.0,Fleet,BMW 5 Series
+35706,23269,"New York,  NY",2017,Mercedes-Benz,GLC,New York, NY,0,1.0,Personal,Mercedes-Benz GLC
+26905,49043,"Elizabeth,  NJ",2017,BMW,X5,Elizabeth, NJ,0,1.0,Personal,BMW X5
+12599,95345,"Brooklyn,  NY",2012,BMW,X5,Brooklyn, NY,0,2.0,Personal,BMW X5
+7942,89951,"Carlstadt,  NJ",2012,Toyota,Corolla,Carlstadt, NJ,1,3.0,Personal,Toyota Corolla
+26995,13023,"New York,  NY",2017,Lexus,IS,New York, NY,0,1.0,Personal,Lexus IS
+26295,29765,"Hasbrouck Heights,  NJ",2018,Mercedes-Benz,C-Class,Hasbrouck Heights, NJ,0,1.0,Personal,Mercedes-Benz C-Class
+17542,35916,"Carlstadt,  NJ",2017,GMC,Savana Passenger,Carlstadt, NJ,0,1.0,Personal,GMC Savana Passenger
+19501,52979,"Verona,  NJ",2017,Lincoln,MKX,Verona, NJ,0,4.0,Fleet,Lincoln MKX
+59901,37478,"New York,  NY",2017,Mercedes-Benz,S-Class,New York, NY,0,2.0,Personal,Mercedes-Benz S-Class
+49686,16588,"Secaucus,  NJ",2018,Audi,Q7,Secaucus, NJ,1,1.0,Personal,Audi Q7
+10900,9040,"Hillside,  NJ",2017,Kia,Forte,Hillside, NJ,0,1.0,Personal,Kia Forte
+14495,123686,"Elizabeth,  NJ",2016,Ford,Explorer,Elizabeth, NJ,1,1.0,Personal,Ford Explorer
+12900,10618,"Hillside,  NJ",2019,Hyundai,Elantra,Hillside, NJ,0,1.0,Personal,Hyundai Elantra
+9995,125102,"Brooklyn,  NY",2014,Toyota,Sienna,Brooklyn, NY,0,2.0,Personal,Toyota Sienna
+5995,115116,"Long Island City,  NY",2011,Ford,Escape,Long Island City, NY,2,4.0,Fleet,Ford Escape
+13642,42701,"Carlstadt,  NJ",2018,Chevrolet,Malibu,Carlstadt, NJ,0,1.0,Fleet,Chevrolet Malibu
+16428,39284,"Hillside,  NJ",2017,Nissan,Rogue,Hillside, NJ,0,1.0,Personal,Nissan Rogue
+42999,7221,"Union,  NJ",2019,Mercedes-Benz,GLC,Union, NJ,0,1.0,Personal,Mercedes-Benz GLC
+42999,5969,"Union,  NJ",2019,Mercedes-Benz,GLC,Union, NJ,0,1.0,Personal,Mercedes-Benz GLC
+43862,4698,"Paramus,  NJ",2020,Mercedes-Benz,GLC,Paramus, NJ,0,1.0,Personal,Mercedes-Benz GLC
+24995,33564,"Hasbrouck Heights,  NJ",2016,Volvo,XC60,Hasbrouck Heights, NJ,0,1.0,Personal,Volvo XC60
+19990,52323,"New York,  NY",2017,Ford,Edge,New York, NY,0,2.0,Fleet,Ford Edge
+17495,48889,"Hackensack,  NJ",2017,Ford,Escape,Hackensack, NJ,0,1.0,Personal,Ford Escape
+22097,29977,"New York,  NY",2019,Nissan,Maxima,New York, NY,0,1.0,Personal,Nissan Maxima
+10255,35864,"Yonkers,  NY",2017,Nissan,Sentra,Yonkers, NY,2,2.0,Personal,Nissan Sentra
+15590,37125,"New York,  NY",2017,Chevrolet,Equinox,New York, NY,0,2.0,Personal,Chevrolet Equinox
+22900,49783,"Elmhurst,  NY",2017,Toyota,Highlander,Elmhurst, NY,0,1.0,Personal,Toyota Highlander
+20590,42850,"New York,  NY",2017,BMW,X3,New York, NY,0,2.0,Personal,BMW X3
+29995,18117,"Hackensack,  NJ",2019,Ford,Transit Passenger Wagon,Hackensack, NJ,0,1.0,Personal,Ford Transit Passenger Wagon
+14997,28605,"Jersey City,  NJ",2019,Nissan,Sentra,Jersey City, NJ,0,1.0,Personal,Nissan Sentra
+14905,29540,"Elizabeth,  NJ",2017,Honda,Accord,Elizabeth, NJ,1,1.0,Personal,Honda Accord
+16890,37298,"Valley Stream,  NY",2019,Jeep,Compass,Valley Stream, NY,0,1.0,Fleet,Jeep Compass
+15500,24694,"Old Bridge,  NJ",2017,Honda,Civic,Old Bridge, NJ,0,1.0,Personal,Honda Civic
+22990,35725,"New York,  NY",2017,Toyota,Highlander,New York, NY,0,1.0,Personal,Toyota Highlander
+13895,34122,"Rahway,  NJ",2017,Ford,Escape,Rahway, NJ,0,1.0,Fleet,Ford Escape
+16777,95426,"Hillside,  NJ",2014,Mercedes-Benz,GL,Hillside, NJ,0,2.0,Personal,Mercedes-Benz GL
+17995,43266,"Paramus,  NJ",2017,Honda,Accord,Paramus, NJ,0,1.0,Personal,Honda Accord
+13951,50104,"Woodside,  NY",2017,Honda,Accord,Woodside, NY,0,1.0,Fleet,Honda Accord
+33998,31193,"New York,  NY",2017,Volvo,XC90,New York, NY,0,1.0,Personal,Volvo XC90
+18501,67566,"Mahwah,  NJ",2017,GMC,Acadia,Mahwah, NJ,0,1.0,Personal,GMC Acadia
+10995,128423,"Ridgewood,  NY",2010,Jeep,Wrangler,Ridgewood, NY,2,3.0,Fleet,Jeep Wrangler
+19990,35573,"New York,  NY",2017,Nissan,Murano,New York, NY,0,1.0,Fleet,Nissan Murano
+38490,9575,"New York,  NY",2018,Lexus,RX,New York, NY,0,1.0,Personal,Lexus RX
+9995,113245,"Union City,  NJ",2006,Toyota,4Runner,Union City, NJ,0,4.0,Personal,Toyota 4Runner
+16590,31627,"New York,  NY",2016,BMW,i3,New York, NY,0,2.0,Personal,BMW i3
+11988,41749,"Green Brook,  NJ",2018,Toyota,Corolla,Green Brook, NJ,0,2.0,Personal,Toyota Corolla
+33797,20126,"New York,  NY",2020,Buick,Enclave,New York, NY,0,1.0,Personal,Buick Enclave
+8995,92517,"Newark,  NJ",2010,Nissan,Maxima,Newark, NJ,1,4.0,Fleet,Nissan Maxima
+16942,26484,"Carlstadt,  NJ",2017,Subaru,Impreza,Carlstadt, NJ,1,1.0,Personal,Subaru Impreza
+9999,79402,"Irvington,  NJ",2016,Nissan,Altima,Irvington, NJ,1,1.0,Fleet,Nissan Altima
+14999,76382,"Elmhurst,  NY",2014,Lexus,ES,Elmhurst, NY,0,2.0,Personal,Lexus ES
+89995,33453,"Newark,  NJ",2014,Audi,R8,Newark, NJ,0,3.0,Fleet,Audi R8
+9900,30831,"Bayonne,  NJ",2017,Kia,Forte,Bayonne, NJ,0,1.0,Fleet,Kia Forte
+40901,27029,"New York,  NY",2017,Mercedes-Benz,GLE,New York, NY,0,1.0,Personal,Mercedes-Benz GLE
+31900,35777,"Kearny,  NJ",2017,Jaguar,F-PACE,Kearny, NJ,0,1.0,Personal,Jaguar F-PACE
+5795,137217,"Belleville,  NJ",2011,Jeep,Compass,Belleville, NJ,1,3.0,Personal,Jeep Compass
+17990,15832,"Brooklyn,  NY",2020,Nissan,Altima,Brooklyn, NY,0,1.0,Personal,Nissan Altima
+28945,48486,"Hasbrouck Heights,  NJ",2016,Mercedes-Benz,Sprinter Passenger Van,Hasbrouck Heights, NJ,0,1.0,Personal,Mercedes-Benz Sprinter Passenger Van
+12942,77442,"Carlstadt,  NJ",2015,BMW,3 Series,Carlstadt, NJ,1,3.0,Fleet,BMW 3 Series
+11900,116237,"Kearny,  NJ",2012,Ford,Econoline Wagon,Kearny, NJ,0,3.0,Personal,Ford Econoline Wagon
+21888,36245,"Long Island City,  NY",2017,Ford,Explorer,Long Island City, NY,1,1.0,Fleet,Ford Explorer
+17995,68129,"Hasbrouck Heights,  NJ",2017,BMW,3 Series,Hasbrouck Heights, NJ,0,2.0,Personal,BMW 3 Series
+11900,31672,"Hillside,  NJ",2017,Chevrolet,Malibu,Hillside, NJ,0,1.0,Fleet,Chevrolet Malibu
+17900,55997,"Kearny,  NJ",2016,Ford,Econoline Commercial Cutaway,Kearny, NJ,1,1.0,Personal,Ford Econoline Commercial Cutaway
+18890,23664,"Elmhurst,  NY",2019,Honda,Accord,Elmhurst, NY,0,1.0,Personal,Honda Accord
+23942,15768,"Carlstadt,  NJ",2017,Land,Rover Discovery Sport,Carlstadt, NJ,1,2.0,Personal,Land Rover Discovery Sport
+14990,46137,"Elmhurst,  NY",2014,Lexus,RX,Elmhurst, NY,0,3.0,Fleet,Lexus RX
+29995,51697,"Teterboro,  NJ",2017,BMW,X5,Teterboro, NJ,0,1.0,Personal,BMW X5
+62995,33226,"New York,  NY",2017,Lexus,LX,New York, NY,0,2.0,Personal,Lexus LX
+29999,30521,"Brooklyn,  NY",2017,Toyota,Highlander,Brooklyn, NY,0,1.0,Personal,Toyota Highlander
+12995,66765,"Ridgewood,  NY",2017,Ford,Escape,Ridgewood, NY,0,1.0,Fleet,Ford Escape
+24995,33564,"Hasbrouck Heights,  NJ",2016,Volvo,XC60,Hasbrouck Heights, NJ,0,1.0,Personal,Volvo XC60
+15981,30421,"Long Island City,  NY",2018,Nissan,Rogue,Long Island City, NY,0,1.0,Personal,Nissan Rogue
+46890,30839,"Long Island City,  NY",2016,Mercedes-Benz,S-Class,Long Island City, NY,0,1.0,Personal,Mercedes-Benz S-Class
+9999,62166,"Staten Island,  NY",2013,Ford,Escape,Staten Island, NY,0,1.0,Personal,Ford Escape
+12905,34587,"Elizabeth,  NJ",2017,Honda,Accord,Elizabeth, NJ,1,1.0,Personal,Honda Accord
+15208,44428,"Hillside,  NJ",2017,Ford,Fusion,Hillside, NJ,0,2.0,Fleet,Ford Fusion
+19995,62274,"Brooklyn,  NY",2017,Jeep,Grand Cherokee,Brooklyn, NY,0,2.0,Personal,Jeep Grand Cherokee
+9980,101727,"Jersey City,  NJ",2013,Volkswagen,Jetta,Jersey City, NJ,0,3.0,Personal,Volkswagen Jetta
+135995,261,"New York,  NY",2020,Porsche,911,New York, NY,0,1.0,Personal,Porsche 911
+20662,4782,"Bloomfield,  NJ",2019,Nissan,Rogue,Bloomfield, NJ,0,1.0,Personal,Nissan Rogue
+21972,73800,"Jersey City,  NJ",2015,Mercedes-Benz,C-Class,Jersey City, NJ,0,2.0,Fleet,Mercedes-Benz C-Class
+12888,36504,"Long Island City,  NY",2016,Honda,CR-V,Long Island City, NY,1,1.0,Fleet,Honda CR-V
+24391,58351,"Little Ferry,  NJ",2017,Jeep,Grand Cherokee,Little Ferry, NJ,1,2.0,Personal,Jeep Grand Cherokee
+10900,2394,"Hillside,  NJ",2019,Nissan,Versa,Hillside, NJ,1,1.0,Fleet,Nissan Versa
+12699,92562,"Union City,  NJ",2016,Chevrolet,Traverse,Union City, NJ,0,1.0,Personal,Chevrolet Traverse
+6399,127019,"Union City,  NJ",2012,Hyundai,Elantra,Union City, NJ,1,2.0,Personal,Hyundai Elantra
+33390,35412,"Long Island City,  NY",2017,Mercedes-Benz,GLE,Long Island City, NY,0,1.0,Personal,Mercedes-Benz GLE
+12470,21551,"Brooklyn,  NY",2016,Ford,Fusion,Brooklyn, NY,0,1.0,Fleet,Ford Fusion
+14900,13857,"Hillside,  NJ",2019,Nissan,Altima,Hillside, NJ,1,1.0,Personal,Nissan Altima
+21697,11865,"New York,  NY",2019,Toyota,Prius,New York, NY,0,1.0,Personal,Toyota Prius
+47415,30654,"Hasbrouck Heights,  NJ",2019,Ford,Expedition,Hasbrouck Heights, NJ,0,1.0,Personal,Ford Expedition
+15988,56501,"Bloomfield,  NJ",2017,Hyundai,Tucson,Bloomfield, NJ,0,1.0,Personal,Hyundai Tucson
+19468,4621,"Hillside,  NJ",2019,Nissan,Rogue,Hillside, NJ,0,1.0,Personal,Nissan Rogue
+1999,150000,"Hasbrouck Heights,  NJ",2008,Chevrolet,HHR,Hasbrouck Heights, NJ,2,3.0,Personal,Chevrolet HHR
+56995,33365,"New York,  NY",2017,Porsche,Macan,New York, NY,0,1.0,Personal,Porsche Macan
+26167,30428,"Long Island City,  NY",2017,Toyota,Highlander,Long Island City, NY,0,1.0,Fleet,Toyota Highlander
+12500,25904,"Hillside,  NJ",2019,Hyundai,Elantra,Hillside, NJ,0,1.0,Personal,Hyundai Elantra
+9145,48583,"Long Island City,  NY",2018,Nissan,Sentra,Long Island City, NY,0,2.0,Fleet,Nissan Sentra
+21542,29715,"Carlstadt,  NJ",2017,Volvo,S90,Carlstadt, NJ,0,1.0,Personal,Volvo S90
+41686,53978,"Secaucus,  NJ",2018,Audi,S5,Secaucus, NJ,2,1.0,Personal,Audi S5
+17948,25555,"Hillside,  NJ",2017,Nissan,Rogue,Hillside, NJ,0,1.0,Personal,Nissan Rogue
