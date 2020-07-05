@@ -41,7 +41,7 @@ In this step I analyzed the data to discover any pattern or correlation between 
 
 I also checked for the distribution of some of the variables and their relationship with the label (price).
 
-![](./images/boxplot.png)
+![Boxplot](images/boxplot.png)
 
 
 ## Model Selection and Evaluation
