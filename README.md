@@ -37,11 +37,11 @@ Other transformations were applied like handling missing values and outliers.
 
 In this step I analyzed the data to discover any pattern or correlation between the variables.
 
-![Correlation Matrix](images/corrMatrix.png)
+![](images/corrMatrix.PNG)
 
 I also checked for the distribution of some of the variables and their relationship with the label (price).
 
-![Boxplot](images/boxplot.png)
+![](images/boxplot.PNG)
 
 
 ## Model Selection and Evaluation
