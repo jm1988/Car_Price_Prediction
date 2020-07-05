@@ -30,14 +30,14 @@ The data was cleaned and formmatted by:
  
 Other transformations were applied like handling missing values and outliers.
  
-[Cleaning Script](./scripts/cleaning.py)
+[Cleaning Script](scripts/cleaning.py)
 
 
 ## Exploratory Data Analysis
 
 In this step I analyzed the data to discover any pattern or correlation between the variables.
 
-![Correlation Matrix](./images/corrMatrix.png)
+![Correlation Matrix](images/corrMatrix.png)
 
 I also checked for the distribution of some of the variables and their relationship with the label (price).
 
