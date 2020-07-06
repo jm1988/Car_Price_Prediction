@@ -30,18 +30,18 @@ The data was cleaned and formmatted by:
  
 Other transformations were applied like handling missing values and outliers.
  
-[Cleaning Script](./scripts/cleaning.py)
+[Cleaning Script](scripts/cleaning.py)
 
 
 ## Exploratory Data Analysis
 
 In this step I analyzed the data to discover any pattern or correlation between the variables.
 
-![Correlation Matrix](./images/corrMatrix.png)
+![](images/corrMatrix.PNG)
 
 I also checked for the distribution of some of the variables and their relationship with the label (price).
 
-![](./images/boxplot.png)
+![](images/boxplot.PNG)
 
 
 ## Model Selection and Evaluation
@@ -60,4 +60,12 @@ Of all the models, the Random Forest Regressor had the best evaluation score. A 
 The model was then saved as a pkl file for further deployment.
 
 
-## Model Deployment# Car_Price_Prediction
+## Model Deployment
+
+The model was deployed through a web app using Heroku. [Car Price Estimator](https://car-price-estimator.herokuapp.com/)
+
+## Conclusion
+
+After testing the app multiple times, and comparing its results with the ones in different used cars listing, I noticed some issues:
+- The model seems to overestimate cheap cars and understimate expensive cars.
+- Location, accidents, owners and use don't seem to have any effect on the final result.
